@@ -1397,4 +1397,8 @@ audio {
   .backHome {
     margin-bottom: 20px;
   }
+	
+  body {
+    background-size: contain;
+  }
 }

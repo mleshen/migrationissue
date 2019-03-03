@@ -5,7 +5,6 @@ author: "R.O. Kwon"
 type: "Fiction"
 source: "../../icons/5.jpg"
 interview: "/ro-kwon"
-interview: "No"
 
 
 ---

@@ -1401,4 +1401,8 @@ audio {
   body {
     background-size: 600px;
   }
+	
+  .artpreviewrow {
+    width: 100%
+  }
 }

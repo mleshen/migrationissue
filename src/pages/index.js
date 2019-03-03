@@ -13,8 +13,8 @@ import Navbar from '../components/navbar'
 
 
 export default ({data }) => {
-  const featuredSample = _.sampleSize(data.all.edges, 3)
-  const artSample = _.sampleSize(data.art.edges, 4)
+  let featuredSample = _.sampleSize(data.all.edges, 3)
+  let artSample = _.sampleSize(data.art.edges, 4)
 
   return (
     <Layout>

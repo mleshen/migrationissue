@@ -35,15 +35,17 @@ export default ({data }) => {
       <div class="featuredrow">
         {featuredSample.map(post => (
           <Featuredcolumn>
-            <a href={post.node.frontmatter.path}>
-              <div key={post.node.id}>
-                <h3>{post.node.frontmatter.title}</h3>
-                <small>
-                  {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                </small>
-                <br />
-              </div>
-            </a>
+            <div key={post.node.id}>
+              <a href={post.node.frontmatter.path}>
+                <div>
+                  <h3>{post.node.frontmatter.title}</h3>
+                  <small>
+                    {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                  </small>
+                  <br />
+                </div>
+              </a>
+            </div>
           </Featuredcolumn>
         ))
         }

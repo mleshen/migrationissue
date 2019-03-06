@@ -47,13 +47,11 @@ class Index extends React.Component {
           <Featuredcolumn>
             <div key={post.node.id}>
               <a href={post.node.frontmatter.path}>
-                <div>
-                  <h3>{post.node.frontmatter.title}</h3>
-                  <small>
-                    {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                  </small>
-                  <br />
-                </div>
+              <h3>{post.node.frontmatter.title}</h3>
+              <small>
+                {post.node.frontmatter.type} by {post.node.frontmatter.author}
+              </small>
+              <br />
               </a>
             </div>
           </Featuredcolumn>

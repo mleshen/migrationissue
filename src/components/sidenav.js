@@ -27,9 +27,9 @@ export default ({ children }) => (
                   <div class="menuLink tabbed"><Link to="/interview" activeClassName="active">Interviews</Link></div>
               </div>
               <div class="menuLink"><Link to="/about" activeClassName="activeSub">About</Link></div>
-              <div class="menuLink"><Link to="https://theharvardadvocate.com/" activeClassName="activeSub">The Harvard Advocate</Link></div>
+              <div class="menuLink"><a href="https://theharvardadvocate.com/" activeClassName="activeSub">The Harvard Advocate</a></div>
               <div class="tabbedLinks">
-                <div class="menuLink tabbed"><Link to="https://theharvardadvocate.com/shop/9" activeClassName="active">Purchase the print issue</Link></div>
+                <div class="menuLink tabbed"><a href="https://theharvardadvocate.com/shop/9" activeClassName="active">Purchase the print issue</a></div>
               </div>
             </div>
           </div>

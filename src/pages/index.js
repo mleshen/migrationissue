@@ -128,19 +128,28 @@ class Index extends React.Component {
             {fictionSample.map(post => (
               <a href={post.node.frontmatter.path}>
                 <div class="piecepreviewcolumn">
-                  <div class="piecepreview fictionpreview">
-                    <div key={post.node.id}>
-                      <h3>{post.node.frontmatter.title}</h3>
-                      <small>
-                        {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                      </small>
-                      <Shorten>
-                        {post.node.excerpt}
-                      </Shorten>
-                      <br />
-                      <div class="fadetowhite"></div>
-                      <Circlebutton> <small> Read more </small> </Circlebutton>
-                    </div>
+                  <div key={post.node.id} class="piecepreview fictionpreview">
+                      <div class="previewDefault">
+                        <img class="previewImage" src={post.node.frontmatter.source.childImageSharp.sizes.src}></img>
+                        <div class="previewInfo">
+                          <h3>{post.node.frontmatter.title}</h3>
+                          <small>
+                            {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                          </small>
+                        </div>
+                      </div>
+
+                      <div class="previewOverlay">
+                        <div class="overlayContent">
+                          <h3>{post.node.frontmatter.title}</h3>
+                          <small>
+                            {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                          </small>
+                          <Shorten>{post.node.excerpt}</Shorten><br />
+                          <div class="fadetowhite"></div>
+                          <Circlebutton> <small> Read more </small> </Circlebutton>
+                        </div>
+                      </div>
                   </div>
                 </div>
               </a>
@@ -194,54 +203,77 @@ class Index extends React.Component {
         <a href="/art"><h4 class="seemore">See more art</h4></a>
 
 
-
-          <Piecepreviewrow>
-            {essaySample.map(post => (
-              <a href={post.node.frontmatter.path}>
+        <Piecepreviewrow>
+          {essaySample.map(post => (
+            <a href={post.node.frontmatter.path}>
               <div class="piecepreviewcolumn">
-                <div class="piecepreview essaypreview">
-                  <div key={post.node.id}>
-                    <h3>{post.node.frontmatter.title}</h3>
-                    <small>
-                      {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                    </small>
-                    <Shorten>
-                      {post.node.excerpt}
-                    </Shorten>
-                    <br />
-                    <div class="fadetowhite"></div>
-                    <Circlebutton> <small> Read more </small> </Circlebutton>
-                  </div>
+                <div key={post.node.id} class="piecepreview essaypreview">
+                    <div class="previewDefault">
+                      <img class="previewImage" src={post.node.frontmatter.source.childImageSharp.sizes.src}></img>
+                      <div class="previewInfo">
+                        <h3>{post.node.frontmatter.title}</h3>
+                        <small>
+                          {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                        </small>
+                      </div>
+                    </div>
+
+                    <div class="previewOverlay">
+                      <div class="overlayContent">
+                        <h3>{post.node.frontmatter.title}</h3>
+                        <small>
+                          {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                        </small>
+                        <Shorten>{post.node.excerpt}</Shorten><br />
+                        <div class="fadetowhite"></div>
+                        <Circlebutton> <small> Read more </small> </Circlebutton>
+                      </div>
+                    </div>
                 </div>
               </div>
-              </a>
-            ))}
-            <a href="/personalessay"><h4 class="seemore">See more personal essays</h4></a>
-          </Piecepreviewrow>
+            </a>
+          ))}
+          <a href="/personalessay"><h4 class="seemore">See more personal essays </h4></a>
+        </Piecepreviewrow>
 
-          <Piecepreviewrow>
-            {poetrySample.map(post => (
-              <a href={post.node.frontmatter.path}>
-                <div class="piecepreviewcolumn">
-                  <div class="piecepreview poetrypreview">
-                    <div key={post.node.id}>
-                      <h3>{post.node.frontmatter.title}</h3>
-                      <small>
-                        {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                      </small>
-                      <Shorten>
-                        {post.node.excerpt}
-                      </Shorten>
-                      <br />
-                      <div class="fadetowhite"></div>
-                      <Circlebutton> <small> Read more </small> </Circlebutton>
+        <Piecepreviewrow>
+          {poetrySample.map(post => (
+              <div class="piecepreviewcolumn">
+
+                <div key={post.node.id} class="piecepreview poetrypreview">
+                <a href={post.node.frontmatter.path}>
+
+                    <div class="previewDefault">
+                      <img class="previewImage" src={post.node.frontmatter.source.childImageSharp.sizes.src}></img>
+                      <div class="previewInfo">
+                        <h3>{post.node.frontmatter.title}</h3>
+                        <small>
+                          {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                        </small>
+                      </div>
                     </div>
-                  </div>
+
+                    <div class="previewOverlay">
+                      <div class="overlayContent">
+                        <h3>{post.node.frontmatter.title}</h3>
+                        <small>
+                          {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                        </small>
+                        <Shorten>{post.node.excerpt}</Shorten><br />
+                        <div class="fadetowhite"></div>
+                        <Circlebutton> <small> Read more </small> </Circlebutton>
+                      </div>
+                    </div>
+                    </a>
+  
                 </div>
-              </a>
-            ))}
-            <a href="/poetry"><h4 class="seemore">See more poetry</h4></a>
-          </Piecepreviewrow>
+
+              </div>
+          ))}
+          <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>
+        </Piecepreviewrow>
+
+
         </Layout>
 
     )}
@@ -304,6 +336,13 @@ export const pieceQuery = graphql`
               title
               author
               type
+              source {
+                childImageSharp{
+                  sizes(maxWidth: 630) {
+                      src
+                  }
+                }
+              }
             }
             excerpt
           }
@@ -318,6 +357,13 @@ export const pieceQuery = graphql`
               title
               author
               type
+              source {
+                childImageSharp{
+                  sizes(maxWidth: 630) {
+                      src
+                  }
+                }
+              }
             }
             excerpt
           }

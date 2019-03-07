@@ -4,7 +4,7 @@ import styled from "styled-components"
 
 const PreviewRow = styled.div`
   display: inline-block;
-  margin-top: 50px;
+  margin-top: 20px;
 `
 
 export default ({ children }) => (

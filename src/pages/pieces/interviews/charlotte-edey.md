@@ -3,7 +3,7 @@ path: "/charlotte-edey"
 title: "Charlotte Edey"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/10.jpg" 
+source: "../icons/10.jpg"  
 sound: ""
 
 ---

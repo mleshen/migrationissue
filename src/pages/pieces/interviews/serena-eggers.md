@@ -3,7 +3,7 @@ path: "/serena-eggers"
 title: "Serena Eggers"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/3.jpg"
+source: "../icons/3.jpg" 
 sound: ""
 
 ---

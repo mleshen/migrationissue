@@ -3,7 +3,7 @@ path: "/helen-zughaib"
 title: "Helen Zughaib"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/17.jpg"
+source: "../icons/17.jpg" 
 sound: ""
 
 ---

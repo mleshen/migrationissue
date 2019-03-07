@@ -3,7 +3,7 @@ path: "/angela-ales"
 title: "Angela Ales"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/9.jpg" 
+source: "../icons/9.jpg"  
 sound: ""
 ---
 

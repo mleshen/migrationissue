@@ -3,7 +3,7 @@ path: "/prudence-flint"
 title: "Prudence Flint"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/21.jpg"
+source: "../icons/21.jpg" 
 sound: ""
 
 ---

@@ -3,7 +3,7 @@ path: "/genesis-belanger"
 title: "Genesis Belanger"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/16.jpg"
+source: "../icons/16.jpg" 
 sound: ""
 
 ---

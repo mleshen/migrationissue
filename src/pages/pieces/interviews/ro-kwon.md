@@ -3,7 +3,7 @@ path: "/ro-kwon"
 title: "R.O. Kwon"
 author: "The Women's Issue"
 type: "Interview"
-source: "../icons/22.jpg"
+source: "../icons/22.jpg" 
 sound: ""
 
 ---

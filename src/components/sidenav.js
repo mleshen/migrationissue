@@ -15,7 +15,7 @@ export default ({ children }) => (
         <div id="expand">
           <a class="naviconlimits" href=""><img class="navicon" src={Expand}></img></a>
           <div class="expandMenu">
-            
+
             <div class="menuText">
               <div class="menuLink"><Link to="/" activeClassName="activeSub">Home</Link></div>
               <div class="menuLink"><Link to="/" activeClassName="activeSub">Browse pieces</Link></div>
@@ -27,6 +27,7 @@ export default ({ children }) => (
                   <div class="menuLink tabbed"><Link to="/interview" activeClassName="active">Interviews</Link></div>
               </div>
               <div class="menuLink"><Link to="/about" activeClassName="activeSub">About</Link></div>
+              <div class="menuLink"><Link to="https://theharvardadvocate.com/" activeClassName="activeSub">The Harvard Advocate</Link></div>
             </div>
           </div>
         </div>

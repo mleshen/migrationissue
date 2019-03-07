@@ -12,6 +12,7 @@ import Shorten from '../components/shorten'
 import Shortenfeatured from '../components/shortenfeatured'
 import SEO from '../components/seo'
 import Navbar from '../components/sidenav'
+import GenreBar from '../components/genrebar'
 
 
 class Index extends React.Component {
@@ -49,14 +50,7 @@ class Index extends React.Component {
 
           <Navbar></Navbar>
 
-          <ul class="genreBar">
-            <li class="genre"><Link to="/" activeClassName="active">All</Link></li>
-            <li class="genre"><Link to="/art" activeClassName="active">Art</Link></li>
-            <li class="genre"><Link to="/fiction" activeClassName="active">Fiction</Link></li>
-            <li class="genre"><Link to="/personalessay" activeClassName="active">Personal Essays</Link></li>
-            <li class="genre"><Link to="/poetry" activeClassName="active">Poetry</Link></li>
-            <li class="genre"><Link to="/interview" activeClassName="active">Interviews</Link></li>
-          </ul>
+          <GenreBar></GenreBar>
 
           <h4 class="top">Featured</h4>
           <div class="featuredrow">
@@ -265,7 +259,7 @@ class Index extends React.Component {
                       </div>
                     </div>
                     </a>
-  
+
                 </div>
 
               </div>

@@ -7,6 +7,7 @@ import Circlebutton from '../components/circlebutton'
 import Shorten from '../components/shorten'
 import SEO from '../components/seo'
 import Navbar from '../components/sidenav'
+import GenreBar from '../components/genrebar'
 
 
 export default ({data }) => {
@@ -17,14 +18,7 @@ return (
 
     <Navbar></Navbar>
 
-    <ul class="genreBar">
-      <li class="genre"><Link to="/" activeClassName="active">All</Link></li>
-      <li class="genre"><Link to="/art" activeClassName="active">Art</Link></li>
-      <li class="genre"><Link to="/fiction" activeClassName="active">Fiction</Link></li>
-      <li class="genre"><Link to="/personalessay" activeClassName="active">Personal Essays</Link></li>
-      <li class="genre"><Link to="/poetry" activeClassName="active">Poetry</Link></li>
-      <li class="genre"><Link to="/interview" activeClassName="active">Interviews</Link></li>
-    </ul>
+    <GenreBar></GenreBar>
 
     <h4 class="top">Explore poetry</h4>
 

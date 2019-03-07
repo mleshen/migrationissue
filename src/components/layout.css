@@ -826,6 +826,9 @@ pre tt:after {
   margin-bottom: 100px
 }
 
+.genrelink {
+  height: 24px;
+}
 .genreBar li {
   display: block;
   flex: 0 1 auto; /* Default */

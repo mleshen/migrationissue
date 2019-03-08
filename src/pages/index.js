@@ -89,6 +89,8 @@ class Index extends React.Component {
           ))}
           </div>
 
+          <div class="linebreak"></div>
+
           <h4>Explore all</h4>
           <Piecepreviewrow>
             {fictionSample.map(post => (
@@ -123,43 +125,45 @@ class Index extends React.Component {
             <a href="/fiction"><h4 class="seemore">See more fiction </h4></a>
           </Piecepreviewrow>
 
-          <div class="artRow">
+          <div class="linebreak"></div>
 
-            <div class="artSelection">
-              <div class="artpreviewrow">
-                {artSample.map((post, index) => (
-                  <div class="artTitleArtist"  key={post.node.id}>
+          <div class="artrowLink">
+            <div class="artRow">
+              <div class="artSelection">
+                <div class="artpreviewrow">
+                  {artSample.map((post, index) => (
+                    <div class="artTitleArtist"  key={post.node.id}>
 
-                  <div class={"arttitle-" + index}>
-                    <a href={post.node.frontmatter.path}>
-                        <h3>{post.node.frontmatter.title}</h3>
-                        <small>
-                          {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                        </small>
-                    </a>
-                    </div>
-                  </div>
-                ))
-                }
-              </div>
-              </div>
-
-              <div class="rightmostArt">
-                <div class="artpiece">
-                {artSample.map((post, index) => (
-                    <div class={"artitem-" + index}>
+                    <div class={"arttitle-" + index}>
                       <a href={post.node.frontmatter.path}>
-                        <div class="artDisplay"><img alt={post.node.frontmatter.title} src={post.node.frontmatter.source.childImageSharp.sizes.src} /></div>
+                          <h3>{post.node.frontmatter.title}</h3>
+                          <small>
+                            {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                          </small>
                       </a>
+                      </div>
                     </div>
-                ))
-                }
+                  ))
+                  }
+                </div>
+                </div>
+                <div class="rightmostArt">
+                  <div class="artpiece">
+                  {artSample.map((post, index) => (
+                      <div class={"artitem-" + index}>
+                        <a href={post.node.frontmatter.path}>
+                          <div class="artDisplay"><img alt={post.node.frontmatter.title} src={post.node.frontmatter.source.childImageSharp.sizes.src} /></div>
+                        </a>
+                      </div>
+                  ))
+                  }
+                  </div>
                 </div>
               </div>
+            <a href="/art"><h4 class="seemore">See more art</h4></a>
+          </div>
 
-        </div>
-        <a href="/art"><h4 class="seemore">See more art</h4></a>
-
+        <div class="linebreak"></div>
 
         <Piecepreviewrow>
           {essaySample.map(post => (
@@ -193,6 +197,9 @@ class Index extends React.Component {
           ))}
           <a href="/personalessay"><h4 class="seemore">See more personal essays </h4></a>
         </Piecepreviewrow>
+
+        <div class="linebreak"></div>
+
 
         <Piecepreviewrow>
           {poetrySample.map(post => (

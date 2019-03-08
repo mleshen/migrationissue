@@ -393,6 +393,5 @@ XX. What became of the boy and his leonine dogs?
 They were going toward the sea. They were going over the sea. They were going.
 
 
-
-© 2012 by R.O. Kwon. “Legends of the Seoul Dogs” originally appeared in The Southern Review.
-
+<br /><br />
+<small>© 2012 by R.O. Kwon. “Legends of the Seoul Dogs” originally appeared in *The Southern Review.*</small>

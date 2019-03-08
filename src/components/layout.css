@@ -644,9 +644,9 @@ pre tt:after {
   clear: both;
 }
 
+.item-0,
 .item-1,
-.item-2,
-.item-3 {
+.item-2 {
   display: block;
 
   width: 60%;
@@ -656,17 +656,17 @@ pre tt:after {
 	animation-iteration-count: infinite;
 }
 
-.item-1{
+.item-0{
   position: absolute;
 	animation-name: anim-1;
 }
 
-.item-2{
+.item-1{
   position: absolute;
 	animation-name: anim-2;
 }
 
-.item-3{
+.item-2{
   position: absolute;
 	animation-name: anim-3;
 }
@@ -688,6 +688,47 @@ pre tt:after {
   74.96%, 91.62% { opacity: 1; z-index: 999}
   100% { opacity: 0; z-index: -1}
 }
+
+
+
+.featuredtitle-0,
+.featuredtitle-1,
+.featuredtitle-2 {
+  animation-duration: 40s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+}
+
+.featuredtitle-0{
+	animation-name: titleanim-1;
+}
+
+.featuredtitle-1{
+	animation-name: titleanim-2;
+}
+
+.featuredtitle-2{
+	animation-name: titleanim-3;
+}
+
+@keyframes titleanim-1 {
+	0%, 8.3% { border-bottom: 2px solid white;}
+  8.3%,25% { border-bottom: 2px solid #fdb22b;}
+  33.33%, 100% { border-bottom: 2px solid white;}
+}
+
+@keyframes titleanim-2 {
+	0%, 33.33% { border-bottom: 2px solid white;}
+  41.63%, 58.29% {  border-bottom: 2px solid #fdb22b;}
+  66.66%, 100% { border-bottom: 2px solid white;}
+}
+
+@keyframes titleanim-3 {
+	0%, 66.66% { border-bottom: 2px solid white;}
+  74.96%, 91.62% {  border-bottom: 2px solid #fdb22b;}
+  100% { border-bottom: 2px solid white;}
+}
+
 
 .featuredImage {
   width: 250px;
@@ -731,10 +772,10 @@ pre tt:after {
 
 }
 
+.artitem-0,
 .artitem-1,
 .artitem-2,
-.artitem-3,
-.artitem-4 {
+.artitem-3 {
   right: 45px;
   animation-duration: 30s;
 	animation-timing-function: ease-in-out;
@@ -742,30 +783,30 @@ pre tt:after {
   z-index: 1;
 }
 
-.artitem-1{
+.artitem-0{
   position: absolute;
 	animation-name: artanim-1;
 }
 
-.artitem-2{
+.artitem-1{
   position: absolute;
 	animation-name: artanim-2;
 }
 
-.artitem-3{
+.artitem-2{
   position: absolute;
 	animation-name: artanim-3;
 }
 
-.artitem-4{
+.artitem-3{
   position: absolute;
 	animation-name: artanim-4;
 }
 
+.artitem-0 img,
 .artitem-1 img,
 .artitem-2 img,
-.artitem-3 img,
-.artitem-4 img {
+.artitem-3 img {
   width: 100%;
 }
 
@@ -792,6 +833,60 @@ pre tt:after {
   75%, 95% { opacity: 1; z-index: 999}
   100% { opacity: 0; z-index: -1}
 }
+
+
+.arttitle-0,
+.arttitle-1,
+.arttitle-2,
+.arttitle-3 {
+  right: 45px;
+  animation-duration: 30s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+  z-index: 1;
+}
+
+.arttitle-0{
+	animation-name: arttitleanim-1;
+}
+
+.arttitle-1{
+	animation-name: arttitleanim-2;
+}
+
+.arttitle-2{
+	animation-name: arttitleanim-3;
+}
+
+.arttitle-3{
+	animation-name: arttitleanim-4;
+}
+
+@keyframes arttitleanim-1 {
+	0%, 5% {border-bottom: 2px solid white;}
+  5%, 20% {border-bottom: 2px solid #fdb22b;}
+  25%, 100% {border-bottom: 2px solid white;}
+}
+
+@keyframes arttitleanim-2 {
+	0%, 25% {border-bottom: 2px solid white;}
+  30%, 45% {border-bottom: 2px solid #fdb22b;}
+  50%, 100% {border-bottom: 2px solid white;}
+}
+
+@keyframes arttitleanim-3 {
+	0%, 45% {border-bottom: 2px solid white;}
+  50%, 70% {border-bottom: 2px solid #fdb22b;}
+  75%, 100% {border-bottom: 2px solid white;}
+}
+
+@keyframes arttitleanim-4 {
+	0%, 70% {border-bottom: 2px solid white;}
+  75%, 95% {border-bottom: 2px solid #fdb22b;}
+  100% {border-bottom: 2px solid white;}
+}
+
+
 
 .rightmostArt {
 }
@@ -1331,6 +1426,11 @@ audio {
   align-items: center;
 }
 
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+
 @media only screen and (max-width: 600px) {
   .featuredrow {
     display: none;
@@ -1346,7 +1446,7 @@ audio {
     float: none;
   }
 
-  .artitem-1, .artitem-2, .artitem-3, .artitem-4 {
+  .artitem-0, .artitem-1, .artitem-2, .artitem-3 {
     right: 0px;
 
   }
@@ -1400,9 +1500,9 @@ audio {
     margin: 15px;
   }
 
+  .item-0,
   .item-1,
-  .item-2,
-  .item-3 {
+  .item-2 {
     width: 100%;
   }
 

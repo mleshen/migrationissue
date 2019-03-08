@@ -51,5 +51,5 @@ I’ve been kind to knowing kindness<br />
 is all it will take.
 
 
-
-Poem originally appeared The New Yorker
+<br /><br />
+<small>Poem originally appeared in *The New Yorker*</small>

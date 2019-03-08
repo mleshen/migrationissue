@@ -389,5 +389,5 @@ If they even exist. If I didn’t make them up. “Really?” I ask.
 “Really,” he says, and pulls the door open wide, as open as it can be.
 
 
-
-“A Love Story” from THE DARK DARK by Samantha Hunt. Copyright © 2017 by Samantha Hunt. Reprinted by permission of Farrar, Straus and Giroux
+<br /><br />
+<small>“A Love Story” from THE DARK DARK by Samantha Hunt. Copyright © 2017 by Samantha Hunt. Reprinted by permission of Farrar, Straus and Giroux</small>

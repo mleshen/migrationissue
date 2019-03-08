@@ -546,7 +546,10 @@ Next year my brother will be in high school and when I was in high school, I had
 I leave twenty dollars on his desk to secure time for our next phone call. I want it to be possible for us to share a home again but I’ll be gone from this house in a week, and he will maybe tell our mom about a dream he had where he was swat- ting this giant bee away from his cheek, and finally, it came right for him, and no matter how much he ducked or swung his head, the bee remained close, and when it finally stung him, it was a soft puff, not bad at all, and then, it was on to the next dream.
 
 
-
+<br /> <br />
+<small>
 SOUR HEART by Jenny Zhang
 Copyright © 2017 by Jenny Zhang
-Published by arrangement with Lenny, an imprint of Random House, a division of Penguin Random House LLC.
+Published by arrangement with Lenny, an imprint of Random House, a division of Penguin Random House LLC.<small>
+
+<img src="sourheart.jpg" alt="Kitten" title="A cute kitten" width="150px" height="100px" />

@@ -71,5 +71,5 @@ I see it now, sometimes in my own face, but also in the faces of younger girls o
 I try to smile at them, but it isn’t me they want.
 
 
-
-“See Me” appeared in The Paris Review.
+<br /><br />
+<small>“See Me” appeared in *The Paris Review*.</small>

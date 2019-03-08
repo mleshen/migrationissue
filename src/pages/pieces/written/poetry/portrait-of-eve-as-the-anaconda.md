@@ -50,5 +50,5 @@ strain, rogue empire multiplying for a thousand virile<br />
 in parthenogenesis, such miraculous display.
 
 
-
-Originally printed in Safiya Sinclair’s book, Cannibal.
+<br /><br />
+<small>Originally printed in Safiya Sinclair’s book, *Cannibal*.</small>

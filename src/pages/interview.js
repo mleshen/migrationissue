@@ -30,7 +30,7 @@ return (
                   <div class="previewInfo">
                     <h3>{post.node.frontmatter.title}</h3>
                     <small>
-                      {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                      In conversation with {post.node.frontmatter.author}
                     </small>
                   </div>
                 </div>

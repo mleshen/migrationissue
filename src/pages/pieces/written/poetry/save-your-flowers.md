@@ -41,5 +41,5 @@ Praying only backwards<br />
 Praying praying on the moon
 
 
-
-From Dorothea Lasky’s new book, Milk, out from Wave Books in April 2018 (https://www.wavepoetry.com/products/milk).
+<br /><br />
+<small>From Dorothea Lasky’s new book, *Milk*, out from Wave Books in April 2018 (https://www.wavepoetry.com/products/milk).</small>

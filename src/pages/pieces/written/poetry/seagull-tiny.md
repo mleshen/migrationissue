@@ -91,5 +91,5 @@ it is confusing that<br />
 words trick us
 
 
-
-“Seagull Tiny”, appears in Charles’ collection Safe Space through Ahsahta Press and an earlier version was featured on The Feminist Wire. “Seagull Tiny” is reprinted here with the author’s permission.
+<br /><br />
+<small>“Seagull Tiny”, appears in Charles’ collection *Safe Space* through Ahsahta Press and an earlier version was featured on *The Feminist Wire*. “Seagull Tiny” is reprinted here with the author’s permission.</small>

@@ -38,5 +38,5 @@ If you ever see just one of us,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wait.
 
 
-
-“Quotation Marks” has appeared on Twitter and is part of a suite to be published by the Hampden Sydney Poetry Review. 
+<br /><br />
+<small>“Quotation Marks” has appeared on Twitter and is part of a suite to be published by the *Hampden Sydney Poetry Review.* </small>

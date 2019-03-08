@@ -39,5 +39,5 @@ Mary. Violet. Pearl.
 We all died of insignificance.
 
 
-
-First printed in Ploughshares, Fall 2001. ©2001 by Rita Dove. Appeared in Rita Dove’s Collected Poems 1974-2004 (W. W. Norton, New York & London, 2016).
+<br /><br />
+<small>First printed in *Ploughshares*, Fall 2001. ©2001 by Rita Dove. Appeared in Rita Dove’s *Collected Poems 1974-2004* (W. W. Norton, New York & London, 2016).</small>

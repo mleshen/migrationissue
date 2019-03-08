@@ -514,5 +514,5 @@ When it comes to getting bums on seats, hysterectomy just doesn't measure up to 
 August 22nd, '94
 
 
-
-Copyright Arundhati Roy 1994. An excerpt from Arundhati Roy, My Seditious Heart: Collected Nonfiction (Chicago: Haymarket Books, 2019).
+<br /><br />
+<small>Copyright Arundhati Roy 1994. An excerpt from *Arundhati Roy, My Seditious Heart: Collected Nonfiction* (Chicago: Haymarket Books, 2019).</small>

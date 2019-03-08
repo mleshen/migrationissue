@@ -4,7 +4,7 @@ import styled from "styled-components"
 
 const Featuredcolumn = styled.div`
   padding: 40px;
-
+  margin-bottom: 10px;
 `
 
 export default ({ children }) => (

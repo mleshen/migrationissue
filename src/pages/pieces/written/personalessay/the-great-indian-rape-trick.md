@@ -512,3 +512,7 @@ No. Not even in the rolling titles at the end
 When it comes to getting bums on seats, hysterectomy just doesn't measure up to rape.
 
 August 22nd, '94
+
+
+
+Copyright Arundhati Roy 1994. An excerpt from Arundhati Roy, My Seditious Heart: Collected Nonfiction (Chicago: Haymarket Books, 2019).

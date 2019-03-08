@@ -4,7 +4,7 @@ title: "Save Your Flowers"
 author: "Dorothea Lasky"
 type: "Poetry"
 source: "../../icons/2.jpg"
-interview: "/dorothea-lasky" 
+interview: "/dorothea-lasky"
 
 ---
 
@@ -39,3 +39,7 @@ I won’t need them where I’m going<br />
 Brave icelet unbecoming<br />
 Praying only backwards<br />
 Praying praying on the moon
+
+
+
+From Dorothea Lasky’s new book, Milk, out from Wave Books in April 2018 (https://www.wavepoetry.com/products/milk).

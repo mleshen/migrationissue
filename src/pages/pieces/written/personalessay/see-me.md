@@ -69,3 +69,7 @@ They had been welcomed at the ranch, given nicknames both childish and aspiratio
 I see it now, sometimes in my own face, but also in the faces of younger girls on the subway, their pinkies linked, their eyes darting and wounded. See me, they say. Their legs sheened with moisturizer, specked with faint bits of glitter. Braces thickening their mouths. The tightness of a pimple they worry slyly with their fingers, ashamed.
 
 I try to smile at them, but it isn’t me they want.
+
+
+
+“See Me” appeared in The Paris Review.

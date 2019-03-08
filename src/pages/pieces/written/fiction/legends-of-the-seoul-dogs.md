@@ -390,4 +390,9 @@ He continued into the woods and the dogs were his eyes, they guided his feet, an
 
 XX. What became of the boy and his leonine dogs?
 
-They were going toward the sea. They were going over the sea. They were going.
+They were going toward the sea. They were going over the sea. They were going.
+
+
+
+© 2012 by R.O. Kwon. “Legends of the Seoul Dogs” originally appeared in The Southern Review.
+

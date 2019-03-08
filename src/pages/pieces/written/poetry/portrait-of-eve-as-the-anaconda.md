@@ -4,7 +4,7 @@ title: "Portrait of Eve as the Anaconda"
 author: "Safiya Sinclair"
 type: "Poetry"
 source: "../../icons/22.jpg"
-interview: "/safiya-sinclair" 
+interview: "/safiya-sinclair"
 
 ---
 
@@ -48,3 +48,7 @@ strain, rogue empire multiplying for a thousand virile<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thousand years; my wings pinned wide
 
 in parthenogenesis, such miraculous display.
+
+
+
+Originally printed in Safiya Sinclair’s book, Cannibal.

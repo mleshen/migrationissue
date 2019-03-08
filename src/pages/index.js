@@ -46,7 +46,7 @@ class Index extends React.Component {
     } else {
       return (
         <Layout>
-          <SEO title="Home" keywords={[`literary`, `art`, `magazine`]} />
+          <SEO title="The Women's Issue" keywords={[`literary`, `art`, `magazine`]} />
 
           <Navbar></Navbar>
 

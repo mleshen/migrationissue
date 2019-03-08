@@ -544,3 +544,9 @@ Even though I tried to distance myself, I felt complicit in her tears. I didn’
 Next year my brother will be in high school and when I was in high school, I had a kid brother who grabbed my leg and walked with it in his arms through our house when it was cold, sat on my shoulders when it was hot to get closer to the ceiling fan, and slept in my bed when he missed me, which was all the time. I kneel down by his bed and kiss him on the cheek, no longer the pillow cheeks I remember from years ago, but now bonier and dotted here and there with pimples. I hold his hand up like he is my king and I am his loyal servant, and I kiss it, bring it up to my heart, hold it there for a moment, and say, “With all my regard.” I don’t let go of his hand right away. “Don’t forget me.” He stirs, and I wonder, for the first time, why it should be so important that he remembers me, that he remembers all of it? “Or forget me,” I add, placing his hand back underneath the blanket. “Or for- get some of it. Or remember me. Whatever. It’s your life.”
 
 I leave twenty dollars on his desk to secure time for our next phone call. I want it to be possible for us to share a home again but I’ll be gone from this house in a week, and he will maybe tell our mom about a dream he had where he was swat- ting this giant bee away from his cheek, and finally, it came right for him, and no matter how much he ducked or swung his head, the bee remained close, and when it finally stung him, it was a soft puff, not bad at all, and then, it was on to the next dream.
+
+
+
+SOUR HEART by Jenny Zhang
+Copyright © 2017 by Jenny Zhang
+Published by arrangement with Lenny, an imprint of Random House, a division of Penguin Random House LLC.

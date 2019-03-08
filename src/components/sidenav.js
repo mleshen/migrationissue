@@ -15,7 +15,6 @@ export default ({ children }) => (
         <div id="expand">
           <a class="naviconlimits" href=""><img class="navicon" src={Expand}></img></a>
           <div class="expandMenu">
-
             <div class="menuText">
               <div class="menuLink"><Link to="/" activeClassName="activeSub">Home</Link></div>
               <div class="menuLink"><Link to="/" activeClassName="activeSub">Browse pieces</Link></div>

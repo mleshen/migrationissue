@@ -4,7 +4,7 @@ title: "Seagull, Tiny"
 author: "Jos Charles"
 type: "Poetry"
 source: "../../icons/3.jpg"
-interview: "/jos-charles" 
+interview: "/jos-charles"
 
 
 ---
@@ -87,5 +87,9 @@ forgiveness
 for boys  i would live<br />
 on their plastic
 
-it is confusing that
+it is confusing that<br />
 words trick us
+
+
+
+“Seagull Tiny”, appears in Charles’ collection Safe Space through Ahsahta Press and an earlier version was featured on The Feminist Wire. “Seagull Tiny” is reprinted here with the author’s permission.

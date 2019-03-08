@@ -4,7 +4,7 @@ title: "Strawberries"
 author: "Gabrielle Bates"
 type: "Poetry"
 source: "../../icons/5.jpg"
-interview: "/gabrielle-bates" 
+interview: "/gabrielle-bates"
 
 
 ---
@@ -49,3 +49,7 @@ thinking them strawberries.<br />
 I feel ashamed for all the people<br />
 I’ve been kind to knowing kindness<br />
 is all it will take.
+
+
+
+Poem originally appeared The New Yorker

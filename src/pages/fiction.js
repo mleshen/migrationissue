@@ -8,6 +8,7 @@ import Shorten from '../components/shorten'
 import SEO from '../components/seo'
 import Navbar from '../components/sidenav'
 import GenreBar from '../components/genrebar'
+import Footer from '../components/footer'
 
 
 export default ({data }) => {
@@ -51,7 +52,8 @@ return (
         </a>
       ))}
     </Piecepreviewrow>
-
+    <div class="linebreak" />
+    <Footer />
   </Layout>
 )
 }

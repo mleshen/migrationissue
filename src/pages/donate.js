@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 import Navbar from '../components/navbar'
 import DonateIcon from '../images/donate.png'
+import Footer from '../components/footer'
 
 
 const Donate = () => (
@@ -26,6 +27,9 @@ const Donate = () => (
       </div>
       <div class="donationSubtext"><i>In the comments of your donation, make sure to mention the Women's Issue so your donation can go towards Planned Parenthood.</i></div>
     </div>
+
+    <div class="linebreak" />
+    <Footer />
   </Layout>
 )
 

@@ -8,4 +8,4 @@ type: "Art"
 interview: "No"
 ---
 
-2018 | Oil on wood panel | 48 x 96 inches
+2018 | Oil on wood panel | 48 x 96 inches 

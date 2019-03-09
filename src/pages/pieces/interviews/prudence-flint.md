@@ -1,14 +1,14 @@
 ---
 path: "/prudence-flint"
-title: "Prudence Flint"
-author: "The Women's Issue"
+title: "An Interview with Prudence Flint"
+author: "Nicole Araya"
 type: "Interview"
-source: "../icons/21.jpg" 
+source: "../icons/21.jpg"
 sound: ""
 
 ---
 
-
+ 
 __*Some of your figures share a similar straight, expressionless gaze. How would you describe the mental state of these women?*__
 
 I imagine these women focusing and thinking. Facial expressions can really dominate a painting. I prefer a more ambiguous reading so the painting itself has room to become the expression. I’m often not sure what it is I want the figure to be feeling. I need to surrender and find it within the painting. We are used to seeing people depicted smiling or scowling in advertisements where ambiguity isn’t going to sell anything.<br /><br />
@@ -35,11 +35,9 @@ Yes, I will have an idea of a pose or a situation and I will ask my friends to m
 
 __*Many of your pieces take place in a world of similar pastel colors, flat surfaces, and distorted perspectives. Would you say your work is inspired by Surrealism?*__
 
-I’m interested in psychology and literature. I am especially interested in art brut and naïve art and early renaissance painting.
+I’m interested in psychology and literature. I am especially interested in art brut and naïve art and early renaissance painting.<br /><br />
 
 
-
-
-		What advice do you have for other artists who struggle with self-doubt?
+__*What advice do you have for other artists who struggle with self-doubt?*__
 
 I don’t think you can escape the self-criticism. You’ve got to learn to manage it and use it constructively. The critical voice is necessary for the growth of the work. You need the critical voice to stay on track, to problem solve and to make change happen. You need to get to know what your deep interests are and then work from there.   

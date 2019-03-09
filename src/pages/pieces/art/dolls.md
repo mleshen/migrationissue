@@ -9,4 +9,4 @@ interview: "/prudence-flint"
 
 ---
 
-2013 | Oil on linen | 122 x 102 cm
+2013 | Oil on linen | 122 x 102 cm 

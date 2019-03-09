@@ -1,13 +1,13 @@
 ---
 path: "/stephanie-burt"
-title: "Stephanie Burt"
+title: "An Interview with Stephanie Burt"
 author: "Sophia Mautz"
 type: "Interview"
-source: "../icons/8.jpg"
+source: "../icons/13.jpg"
 sound: ""
 ---
 __*Sophia*__: You’ve had poems that use inanimate objects as a place from which to speak. Speaking as quotation marks in this poem seems to have a double tongue-in-cheek meaning – speaking from the thing that allows/signifies speech. Can you speak to that timeless human desire to speak, and how that has manifested in your life/work? <br /><br />
-
+ 
 __*Stephanie*__: Thanks for asking-- that's more a valid and welcome interpretation than it is a question, perhaps! I would like to be able to speak alongside and with (rather than simply to, and certainly not for) others, including other people who are in some unusual sense like me. Reading, quoting, sharing work by others is one way to speak with and alongside them. Quotation marks stand for that way to proceed.<br /><br />
 
 __*Sophia*__: Not only the desire to speak, but also the desire to speak in community. How do you see this concept mapping out into today’s politics? Is it a fraught state to be in?<br /><br />

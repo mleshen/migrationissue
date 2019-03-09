@@ -5,7 +5,6 @@ author: "Sophia Mautz"
 type: "Poetry"
 source: "../../icons/20.jpg"
 interview: "/sophia-mautz" 
-
 ---
 
 I once watched a cow give birth<br />

@@ -8,7 +8,7 @@ interview: "No"
 
 ---
 
-
+ 
 It was our favourite activity, my brother’s and mine, to go and watch the puppet show every year during the sultan of the eleven months. Whenever Ramadan happened to fall in the summer, the old sages of the village would set up their canvas outside on the dirt fields where the decrepit wooden houses crackled in the heat, and perform the Hacivat Karagoz until sundown. At the firing of the cannon the entire village would rattle with excitement – time to break fast. My childhood is back-lit, and shadows of the bearded puppet-people dance against my skin.
 
 On the first morning of the first Ramadan I can remember, Baba’s bullets shook the house as he fired his drunken victory shots into the rousing sky. This usual warning was usually meant for us, the little ones. It told us to run and take refuge under our bedsheets – the tattered mattresses laying limp on our rotting wooden floor. We weren’t meant to see Baba enter our space and tear it apart as he would mother from her own bed. But even her sobs couldn’t drown out the thuds of her body against the hands of Baba the giant, Baba the drunk, baba the man.

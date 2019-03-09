@@ -5,7 +5,6 @@ author: "Dorothea Lasky"
 type: "Poetry"
 source: "../../icons/2.jpg"
 interview: "/dorothea-lasky"
-
 ---
 
 Save your congratulations and your flowers<br />

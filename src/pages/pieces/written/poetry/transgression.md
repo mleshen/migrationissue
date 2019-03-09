@@ -5,8 +5,6 @@ author: "Elizabeth Metzger"
 type: "Poetry"
 source: "../../icons/7.jpg"
 interview: "/elizabeth-metzger" 
-
-
 ---
 
 I know the dead are watching me naked.<br />

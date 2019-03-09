@@ -5,7 +5,6 @@ author: "Rita Dove"
 type: "Poetry"
 source: "../../icons/6.jpg"
 interview: "No"
-
 ---
 
 We died one by one,<br />

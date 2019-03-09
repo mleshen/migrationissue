@@ -9,4 +9,4 @@ interview: "No"
 
 ---
 
-2018 | Digital drawing
+2018 | Digital drawing 

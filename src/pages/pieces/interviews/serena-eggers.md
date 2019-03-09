@@ -1,13 +1,13 @@
 ---
 path: "/serena-eggers"
-title: "Serena Eggers"
-author: "The Women's Issue"
+title: "An Interview with Serena Eggers"
+author: "Nicole Araya"
 type: "Interview"
-source: "../icons/3.jpg" 
+source: "../icons/3.jpg"
 sound: ""
 
 ---
-
+ 
 __*The cloudy, mottled texture of Woman Lying on the Couch is so palpable and absorbing. What is the process of encaustic painting like?*__
 
 There are a few different ways to work with encaustic. All involve using a heated palette (something like a hot plate) to melt the encaustic wax, and then applying it to your surface, usually with a brush, before it dries. Variation comes in in options like when you add the pigment—you can add oil paint (or pure pigment) to the translucent wax while you’re heating it, and apply it to the canvas pre-colored; or you can apply it translucent and then add oil paint on top. I usually do some combination of both. The other thing to play with is texture, as you were saying—that cloudiness. To get encaustic to be smooth, you have to melt it again while it’s on the canvas—I usually use a heat gun for this. (Though, worth noting, you have to be very careful of fumes especially for this part—don’t try this at home, kids, unless you get yourself a nice gas mask.) You can then use tools (I have some etching type things that I like) to push it around and make marks in it while it’s still warm, if you want to. It’s always a bit of a negotiation, like with any physical medium—the wax wants to do certain things. I think the real magic of the cloudiness comes in in the layering you can achieve with encaustic, though—what you’re probably noticing in this piece with some of the texture is layers of color inside the wax playing under different color that I added on top.<br /><br />

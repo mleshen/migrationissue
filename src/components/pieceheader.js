@@ -4,7 +4,7 @@ import React from 'react'
 const PieceHeader = ({ siteTitle }) => (
   <div
     style={{
-      marginBottom: `-3.5em`,
+      marginBottom: `-5em`,
     }}
   >
 

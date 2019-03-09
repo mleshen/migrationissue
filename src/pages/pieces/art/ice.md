@@ -9,4 +9,4 @@ interview: "/charlotte-edey"
 
 ---
 
-Ice 2017 | A2 | pencil, chalk, fineliner and digital colour
+Ice 2017 | A2 | pencil, chalk, fineliner and digital colour 

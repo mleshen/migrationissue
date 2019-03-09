@@ -1,9 +1,9 @@
 import React from "react"
 import styled from "styled-components"
 import { Link } from 'gatsby'
-import SmallLogo from '../images/smalllogo.png'
+import SmallLogo from '../images/logo2.png'
 import Logo from '../images/logo.png'
-import Expand from '../images/expand.png'
+import Expand from '../images/expand2.png'
 
 
 export default ({ children }) => (

@@ -10,7 +10,7 @@ interview: "No"
 At the premiere screening of Bandit Queen in Delhi, Shekhar Kapur introduced the film with
 these words: "I had a choice between Truth and Aesthetics. I chose Truth, because Truth is Pure."
 To insist that the film tells the Truth is of the utmost commercial (and critical) importance to him. Again and again, we are assured, in interviews, in reviews, and eventually in writing on the screen before the film begins. "This is a True Story."
-
+ 
 If it weren't the "Truth", what would redeem it from being just a classy version of your
 run-of-the-mill Rape n' Retribution theme that our film industry churns out every now and then?
 What would save it from the familiar accusation that it doesn't show India in a Proper Light?

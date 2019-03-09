@@ -10,3 +10,4 @@ interview: "/serena-eggers"
 ---
 
 2017 | Oil paint on canvas | 48 x 36 inches
+ 

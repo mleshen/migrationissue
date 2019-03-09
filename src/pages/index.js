@@ -81,7 +81,7 @@ class Index extends React.Component {
                     {post.node.frontmatter.type} by {post.node.frontmatter.author}
                   </small>
                   <Shortenfeatured>
-                    {featuredSample[0].node.excerpt}
+                    {post.node.excerpt}
                   </Shortenfeatured>
                 </div>
               </a>
@@ -237,6 +237,9 @@ class Index extends React.Component {
           ))}
           <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>
         </Piecepreviewrow>
+
+        <div class="linebreak"></div>
+
 
 
         </Layout>

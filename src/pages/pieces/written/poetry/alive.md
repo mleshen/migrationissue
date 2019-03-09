@@ -4,13 +4,13 @@ title: "Alive"
 author: "Ashley Gong"
 type: "Poetry"
 source: "../../icons/16.jpg"
-interview: "No"
+interview: "/ashley-gong"
 
 ---
 
 Under this Iowa sky,<br />
 rain falls in slits around us
-
+ 
 the glittering eyelashes of angels<br />
 who pray at god’s cloud-marbled floors.
 

@@ -7,7 +7,7 @@ source: "../../icons/7.jpg"
 interview: "No"
 
 ---
-
+ 
 He comes over straight after a family dinner and his mouth tastes like beef and tomato sauce. I offer him water, but he declines. “I’m only thirsty for you,” he says, so earnestly that it’s a bit strange. I decide I won’t let him use tongue until his mouth starts tasting better, so I keep my lips pursed. He takes the hint. His lips are so thin, though, that when he kisses me it’s like I’m being bitten by a turtle. Or someone without teeth. But yes, looking at him, the lacrosse body, the square mandible, the tawny leonine curls, yes, this is what I want, yes, this is what I must do.
 
 Because when a gingham-loving Asian boy breaks your heart, the best way to exorcise your sorrow is to fuck the dude he wishes he could be. Drew fits the bill: His parents have taken him to the opera since he was a kid, his mom evidently feeds him casserole, and he spends his days carving hash pipes out of stale bagels and studying to become a sports therapist.

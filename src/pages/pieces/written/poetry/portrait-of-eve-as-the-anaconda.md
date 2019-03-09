@@ -5,7 +5,6 @@ author: "Safiya Sinclair"
 type: "Poetry"
 source: "../../icons/22.jpg"
 interview: "/safiya-sinclair"
-
 ---
 
 I too am gathering the vulgarity<br />

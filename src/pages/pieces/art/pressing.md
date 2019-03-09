@@ -10,3 +10,4 @@ interview: "No"
 ---
 
 2018 | Digital collage | 210 x 297 mm
+ 

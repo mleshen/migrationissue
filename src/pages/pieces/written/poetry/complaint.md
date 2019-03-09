@@ -5,8 +5,6 @@ author: "Patricia Liu"
 type: "Poetry"
 source: "../../icons/18.jpg"
 interview: "/patricia-liu" 
-
-
 ---
 
 Trees blush more deeply than we can — with leaves the color of the inside<br />

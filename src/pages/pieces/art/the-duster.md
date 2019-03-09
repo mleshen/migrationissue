@@ -10,3 +10,4 @@ interview: "No"
 ---
 
 2018 | Acrylic, oil, trim on canvas and stitched fabric | 60 x 36 inches
+ 

@@ -8,7 +8,7 @@ interview: "No"
 
 ---
 All summer long, we played checkers out on your front porch. The discs clinked under our fingertips, which shone with grease from the potato chips we licked but would not eat. This was our habit: to pop a chip under our tongues and lave the brittle flake, swallowing only the aftertaste of salt and sour cream. Earlier, you had dumped sugar-free lemonade mix into a water gallon, shook it until the water bloomed to a cloudy yellow. Your fingers skittered along the grid-patterned board, jumping over the squares and scooping up each black checker of mine, your spoils of war. You always played white. You played to win.
-
+ 
 It was the third year of Californian drought. You were fourteen, and no longer needed your nanny. I was eleven. The porch bordered the lawn, fringed with crackling palm fronds and geometric explosions of birds-of-paradise. We often wandered through the cultivated foliage, cooled our feet whenever the garden sprinkler turned on, stuffed nests of grass and apple cores into Mason jars. With gentle fingers, we coaxed beetles and earthworms into these tiny glass microcosms.
 
 Everything moved slowly, like a dream. In the distance, we could see Angel, the neighbor boy, raking golden leaves into small luminescent hills. There was something grand from the way he swept leaves, in that stuttering angle of his arms, his sweaty grip faltering down the handle. Once he abandoned his careful piles and approached us, almost shyly, and asked for some lemonade.

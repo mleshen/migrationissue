@@ -8,4 +8,4 @@ type: "Art"
 interview: "No"
 ---
 
-Acrylic on canvas | 11 x 14”
+Acrylic on canvas | 11 x 14” 

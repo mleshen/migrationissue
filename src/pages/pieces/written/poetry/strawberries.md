@@ -5,8 +5,6 @@ author: "Gabrielle Bates"
 type: "Poetry"
 source: "../../icons/5.jpg"
 interview: "/gabrielle-bates"
-
-
 ---
 
 A car’s tires thu-thunk<br />

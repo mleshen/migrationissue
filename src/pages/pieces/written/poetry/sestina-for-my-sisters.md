@@ -4,7 +4,7 @@ title: "Sestina for my sisters"
 author: "Amanda Gorman"
 type: "Poetry"
 source: "../../icons/4.jpg"
-interview: "No"
+interview: "/amanda-gorman"
 
 
 ---

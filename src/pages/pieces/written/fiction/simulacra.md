@@ -7,7 +7,7 @@ source: "../../icons/6.jpg"
 interview: "No"
 
 ---
-
+ 
 There is an artist in a loft that should have been gutted a long time ago. It is in the city’s aching heart, but nothing about it resembles the steel-and-stuccoed world outside. The ceiling exposes every pipe. Paint comes off the walls in golden curls, revealing a pigeon-colored undertone. Sunlight takes a different slant inside, slashing across a pantone print on one wall and a faded tapestry on another. Old and new sing together and rattle in the steam that runs through the pipes.
 
 The city’s wind knocks on the windows. The city’s people hardly ever knock on the door. But when they do, the artist takes the visitor to the front room. It is an open space, all floorboards that prick and creak under her ever-bare toes. She offers them a pot of old-brew drink—tea or coffee? do you have the pure shot-after-shot, patch-after-patch caffeine that is so favored nowadays? no, I don’t stock that. She listens to what they ask of her. Most of them comment on the pantone print. A few glance wistfully at the tapestry. All of them commission her.

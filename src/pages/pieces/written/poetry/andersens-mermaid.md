@@ -4,9 +4,7 @@ title: "Andersen's Mermaid"
 author: "Letitia Chan"
 type: "Poetry"
 source: "../../icons/17.jpg"
-interview: "/letitia-chan" 
-
-
+interview: "/letitia-chan"
 ---
 
 Do not forget the netting. Whatever<br />

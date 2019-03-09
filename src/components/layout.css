@@ -73,16 +73,27 @@ small {
   font-weight: 200;
   line-height: 1;
 }
+
 .seemore {
   margin-top: 10px;
   margin-right: 20px;
   float: right;
+  border-bottom: solid 2px #fdb22b;
+  padding: 6px 10px;
+  transition: 0.3s;
+
 }
+
+.seemore:hover {
+  background-color: #fdb22b;
+}
+
 .artseemore {
   margin-top: 10px;
   margin-right: 20px;
   float: right;
 }
+
 sub,
 sup {
   font-size: 75%;
@@ -1017,9 +1028,10 @@ a:visited {
   top: 80px;
 }
 
+
 .sidenav {
   width: 100px;
-  padding-top: 40px;
+  padding-top: 50px;
   margin: 0 auto;
   position: fixed;
   z-index: 20000;

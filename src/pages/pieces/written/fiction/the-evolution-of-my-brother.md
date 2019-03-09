@@ -9,7 +9,7 @@ interview: "No"
 ---
 
 I.
-
+ 
 We  were alone most afternoons. On one of them, we searched my room for candles. We found one that I liked: white with Colombian coffee beans clustered around the bottom.
 
 “Eat it,” I said.

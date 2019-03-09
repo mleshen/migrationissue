@@ -1,12 +1,12 @@
 ---
 path: "/ashley-gong"
-title: "Ashley Gong"
+title: "An Interview with Ashley Gong"
 author: "Natliya Palinchak"
 type: "Interview"
-source: "../icons/8.jpg"
+source: "../icons/11.jpg"
 sound: ""
 ---
-
+ 
 __*When did you start writing poetry?*__
 
 I started writing poetry when I was around 13 years old, so around the time I started high school. <br /><br />

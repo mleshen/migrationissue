@@ -7,7 +7,7 @@ source: "../../icons/8.jpg"
 interview: "No"
 
 ---
-
+ 
 All that day as she waited for her sister to come home, Maxine remembered the goats. She did not know what it was that had nudged them into her mind -- there was nothing remotely goat-like, or even countryish, about her sister’s house or the neighborhood -- but once the image presented itself of the white faces, the angular slit-mouths emitting their treble bleats, she could not get rid of it.
 
 They’d been given the goats the spring Maxine was eleven and Tillie nine. Tillie went by Tildra now; she corrected anyone who tried to use the nickname, even Maxine, which Maxine considered cheeky because she was here, after all, to do her sister a favor.  But back then, in upstate Crete, New York, they had been Max and Tillie and didn’t think twice about what they were called. Together they settled on the names Pete and Smiley for the two goats, which their father had waiting as a surprise in a pen he’d built behind the garage. Their father was an insurance salesman, not a carpenter or a farmer, and on the first night of the goats’ residence with the Wrynn family, they escaped and died on Route 12. Mr. Wrynn, his lips set in a line, fastened the fence where Pete and Smiley had pushed through and told Max and Tillie that they would try again, but with just one goat this time. The new one they named Clover, and she lasted a week before dying of a deficiency of Vitamin E.

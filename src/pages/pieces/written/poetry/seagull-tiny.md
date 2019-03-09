@@ -5,8 +5,6 @@ author: "Jos Charles"
 type: "Poetry"
 source: "../../icons/3.jpg"
 interview: "/jos-charles"
-
-
 ---
 
 the villagers are<br />

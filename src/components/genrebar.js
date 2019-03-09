@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import allLink from '../images/allLink.png'
 import artLink from '../images/artLink.png'
 import fictionLink from '../images/fictionLink.png'
-import interviewsLink from '../images/interviewsLink.png'
+import interviewsLink from '../images/conversationsLink.png'
 import essayLink from '../images/essayLink.png'
 import poetryLink from '../images/poetryLink.png'
 

@@ -5,7 +5,6 @@ author: "Daniela Muhleisen"
 type: "Poetry"
 source: "../../icons/19.jpg"
 interview: "/daniela-muhleisen" 
-
 ---
 
 My Pavels knew how to play soccer<br />

@@ -1,7 +1,7 @@
 ---
 path: "/angela-ales"
-title: "Angela Ales"
-author: "The Women's Issue"
+title: "An Interview with Angela Alés"
+author: "Nicole Araya"
 type: "Interview"
 source: "../icons/9.jpg"  
 sound: ""
@@ -10,7 +10,7 @@ sound: ""
 __*Could you talk a bit about the recurring symbols and icons that appear in your work and how we as viewers are to interpret them?*__
 
 My artistic process has in large part been both the means of searching for spiritual and philosophical meaning in my life as well as the act of recording this search. Throughout this journey recurring symbols and icons have solidified into my personal language. This language has been developing since an early age, and even though each symbol represents something particular for me, I do want the viewers to bring their own history and interpretation when seeing my work.
-
+ 
 Here are a few symbols and what they represent to me.
 
 The ladders represent the search or process of growth and evolution.

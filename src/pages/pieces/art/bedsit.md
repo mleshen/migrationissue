@@ -8,4 +8,4 @@ type: "Art"
 interview: "/prudence-flint"
 ---
 
-Oil on linen | 122 x 102 cm
+Oil on linen | 122 x 102 cm 

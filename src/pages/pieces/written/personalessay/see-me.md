@@ -9,6 +9,7 @@ interview: "No"
 ---
 
 When I was thirteen, I had a yearlong correspondence by mail and over the phone with Rodney Bingenheimer. A peculiar icon of the sixties and seventies, Bingenheimer had opened a famous club on the Sunset Strip; he was a live-in publicist to Sonny and Cher, he accompanied David Bowie to London, and through his adjacency, his fandom, and his prescient taste, he eventually achieved fame himself.
+
 We had met briefly on the sidewalk of my small hometown when I walked past a café table where he sat with a group of friends. He was a lackluster presence, not even as tall as I was—red hair cut into a chunky bowl, wearing a blazer over a shirt printed with a Red Army star. He was fifty-five then, though to my thirteen-year-old self he looked much older. His voice had the tremulous, feminine quality I would later read about in memoirs of the golden days of Los Angeles, his eyes slightly out of focus.
 
 “Tell her she looks like my first love,” he half whispered to the group surrounding him, a group casually dressed, but alert with the nervous air of support people. They repeated his words to me, obediently.

@@ -5,8 +5,6 @@ author: "Steph Burt"
 type: "Poetry"
 source: "../../icons/1.jpg"
 interview: "No"
-
-
 ---
 
 “ ”

@@ -9,4 +9,4 @@ interview: "No"
 
 ---
 
-2016 | Ink on paper | 4 x 6 inches
+2016 | Ink on paper | 4 x 6 inches 

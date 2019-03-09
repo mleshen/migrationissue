@@ -5,8 +5,6 @@ author: "Emma de Lisle"
 type: "Poetry"
 source: "../../icons/21.jpg"
 interview: "No"
-
-
 ---
 
 Low among the gulls this time it was not you who found me heedless the reeds<br />

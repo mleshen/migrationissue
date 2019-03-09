@@ -8,4 +8,4 @@ type: "Art"
 interview: "/genesis-belanger"
 ---
 
-2018 | Porcelain | 14 x 4 x 4 inches
+2018 | Porcelain | 14 x 4 x 4 inches 

@@ -7,7 +7,7 @@ source: "../../icons/2.jpg"
 interview: "No"
 
 ---
-
+ 
 Kaira was sprawled across the bed. Faiz had been pushed to one corner, and his sister had somehow managed to turn a hundred-and-eighty degrees. Her feet smelled. He kicked her, softly at first and then a little harder.
 
 “Kaira, wake up. Wake up. It’s Saturday.”

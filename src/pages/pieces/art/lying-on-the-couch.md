@@ -8,4 +8,4 @@ type: "Art"
 interview: "/serena-eggers"
 ---
 
-2017 | Oil paint and encaustic wax on wood | 8 x 10 inches
+2017 | Oil paint and encaustic wax on wood | 8 x 10 inches 

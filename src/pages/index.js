@@ -13,7 +13,7 @@ import Shortenfeatured from '../components/shortenfeatured'
 import SEO from '../components/seo'
 import Navbar from '../components/sidenav'
 import GenreBar from '../components/genrebar'
-
+import Footer from '../components/footer'
 
 class Index extends React.Component {
 
@@ -240,7 +240,7 @@ class Index extends React.Component {
 
         <div class="linebreak"></div>
 
-
+        <Footer></Footer>
 
         </Layout>
 

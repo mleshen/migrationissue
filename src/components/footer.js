@@ -3,7 +3,10 @@ import { Link } from 'gatsby'
 
 
 export default ({ children }) => (
-  <ul class="footer">
+  <div class="footer">
+    <small>
+      Copyright © The Women's Issue 2019 &nbsp;|&nbsp; <a href="https://theharvardadvocate.com/shop/9">Buy the Issue</a> &nbsp;|&nbsp; <a href="/about">About the Issue</a> &nbsp;|&nbsp; <a href="Home">Home</a>
+    </small>
 
-  </ul>
+  </div>
 )

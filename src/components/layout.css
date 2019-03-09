@@ -1458,6 +1458,12 @@ img[src*="#thumbnail"] {
   border-bottom: 1px solid #d3d3d3;
 }
 
+.footer {
+  padding: 25px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
   .featuredrow {
     display: none;

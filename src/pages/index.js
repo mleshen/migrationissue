@@ -59,9 +59,15 @@ class Index extends React.Component {
                 <div class={'featuredtitle-' + index} key={post.node.id}>
                   <a href={post.node.frontmatter.path}>
                   <h3>{post.node.frontmatter.title}</h3>
-                  <small style={{marginBottom: `10px`}}>
-                    {post.node.frontmatter.type} by {post.node.frontmatter.author}
-                  </small>
+                  {
+                    post.node.frontmatter.type === 'Interview'
+                     ? <small style={{marginBottom: `10px`}}>
+                        In conversation with {post.node.frontmatter.author}
+                       </small>
+                     : <small style={{marginBottom: `10px`}}>
+                        {post.node.frontmatter.type} by {post.node.frontmatter.author}
+                       </small>
+                  }
                   <br />
                   </a>
                 </div>

@@ -23,7 +23,7 @@ export default ({ children }) => (
                   <div class="menuLink tabbed"><Link to="/fiction" activeClassName="active">Fiction</Link></div>
                   <div class="menuLink tabbed"><Link to="/personalessay" activeClassName="active">Personal Essays</Link></div>
                   <div class="menuLink tabbed"><Link to="/poetry" activeClassName="active">Poetry</Link></div>
-                  <div class="menuLink tabbed"><Link to="/interview" activeClassName="active">Interviews</Link></div>
+                  <div class="menuLink tabbed"><Link to="/interview" activeClassName="active">Conversations</Link></div>
               </div>
               <div class="menuLink"><Link to="/about" activeClassName="activeSub">About</Link></div>
               <div class="menuLink"><a href="https://theharvardadvocate.com/" activeClassName="activeSub">The Harvard Advocate</a></div>

@@ -34,7 +34,7 @@ class Index extends React.Component {
           artSample: _.sampleSize(this.props.data.art.edges, 4),
           essaySample: _.sampleSize(this.props.data.personalessay.edges, 3),
           fictionSample: _.sampleSize(this.props.data.fiction.edges, 3),
-          poetrySample: _.sampleSize(this.props.data.poetry.edges, 3) 
+          poetrySample: _.sampleSize(this.props.data.poetry.edges, 3)
       })
     }, 300)
   }
@@ -46,7 +46,7 @@ class Index extends React.Component {
     } else {
       return (
         <Layout>
-          <SEO title="The Women's Issue" keywords={[`literary`, `art`, `magazine`]} />
+          <SEO title="The Women's Issue" keywords={[`literary`, `art`, `magazine`, `advocate`]} />
 
           <Navbar></Navbar>
 

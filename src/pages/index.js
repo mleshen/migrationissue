@@ -78,7 +78,7 @@ class Index extends React.Component {
 
           <div class="featuredpiece">
           {featuredSample.map((post, index) => (
-            <div class={'item-' + index} href={post.node.frontmatter.path}>
+            <div class={"item-" + index} href={post.node.frontmatter.path}>
               <a class="featuredLink" href={post.node.frontmatter.path}>
               <img class="featuredImage" alt="first feature" src={post.node.frontmatter.source.childImageSharp.sizes.src}></img>
                 <div class="featuredInfo">

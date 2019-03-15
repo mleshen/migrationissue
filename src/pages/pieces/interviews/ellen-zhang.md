@@ -2,8 +2,8 @@
 path: "/ellen-zhang"
 title: "An Interview with Ellen Zhang"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/1.jpg"
+type: "Interview"
+source: "../icons/19.jpg"
 sound: ""
 
 ---

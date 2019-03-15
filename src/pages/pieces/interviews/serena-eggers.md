@@ -2,8 +2,8 @@
 path: "/serena-eggers"
 title: "An Interview with Serena Eggers"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/3.jpg"
+type: "Interview"
+source: "../icons/9.jpg"
 sound: ""
 
 ---

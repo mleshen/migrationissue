@@ -2,8 +2,8 @@
 path: "/julianna-kardish"
 title: "An Interview with Julianna Kardish"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/4.jpg"
+type: "Interview"
+source: "../icons/2.jpg"
 sound: ""
 
 ---

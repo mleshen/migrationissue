@@ -2,8 +2,8 @@
 path: "/prudence-flint"
 title: "An Interview with Prudence Flint"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/21.jpg"
+type: "Interview"
+source: "../icons/5.jpg"
 sound: ""
 
 ---

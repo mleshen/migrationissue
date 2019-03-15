@@ -2,8 +2,8 @@
 path: "/charlotte-edey"
 title: "An Interview with Charlotte Edey"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/8.jpg"  
+type: "Interview"
+source: "../icons/14.jpg"  
 sound: ""
 
 ---

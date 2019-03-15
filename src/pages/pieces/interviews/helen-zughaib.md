@@ -2,8 +2,8 @@
 path: "/helen-zughaib"
 title: "An Interview with Helen Zughaib"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/17.jpg"
+type: "Interview"
+source: "../icons/22.jpg"
 sound: ""
 
 ---

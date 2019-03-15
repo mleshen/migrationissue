@@ -2,8 +2,8 @@
 path: "/casey-goggin"
 title: "An Interview with Casey Goggin"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/10.jpg"
+type: "Interview"
+source: "../icons/13.jpg"
 sound: ""
 
 ---

@@ -2,8 +2,8 @@
 path: "/angela-ales"
 title: "An Interview with Angela Alés"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/9.jpg"  
+type: "Interview"
+source: "../icons/11.jpg"  
 sound: ""
 ---
 

@@ -2,8 +2,8 @@
 path: "/genesis-belanger"
 title: "An Interview with Genesis Belanger"
 author: "Nicole Araya"
-type: "Interview" 
-source: "../icons/16.jpg"
+type: "Interview"
+source: "../icons/21.jpg"
 sound: ""
 
 ---

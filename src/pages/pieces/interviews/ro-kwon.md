@@ -2,7 +2,7 @@
 path: "/ro-kwon"
 title: "An Interview with R.O. Kwon"
 author: "Sabrina Li"
-type: "Interview" 
+type: "Interview"  
 source: "../icons/6.jpg"
 sound: ""
 

@@ -2,8 +2,8 @@
 path: "/ashley-gong"
 title: "An Interview with Ashley Gong"
 author: "Natliya Palinchak"
-type: "Interview" 
-source: "../icons/11.jpg"
+type: "Interview"
+source: "../icons/12.jpg"
 sound: ""
 ---
 

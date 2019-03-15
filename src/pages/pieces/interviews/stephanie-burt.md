@@ -2,8 +2,8 @@
 path: "/stephanie-burt"
 title: "An Interview with Stephanie Burt"
 author: "Sophia Mautz"
-type: "Interview" 
-source: "../icons/13.jpg"
+type: "Interview"
+source: "../icons/11.jpg"
 sound: ""
 ---
 __*Sophia*__: You’ve had poems that use inanimate objects as a place from which to speak. Speaking as quotation marks in this poem seems to have a double tongue-in-cheek meaning – speaking from the thing that allows/signifies speech. Can you speak to that timeless human desire to speak, and how that has manifested in your life/work? <br /><br />

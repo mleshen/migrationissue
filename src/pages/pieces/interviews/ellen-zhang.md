@@ -2,7 +2,7 @@
 path: "/ellen-zhang"
 title: "An Interview with Ellen Zhang"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/1.jpg"
 sound: ""
 
@@ -11,7 +11,7 @@ sound: ""
 __*How did you come to meet the women pictured in your photos? *__
 
 I interacted with the women in the picture through my internship with Alianza Arkana, a nonprofit organization in Pucallpa, Peru, which provides resources to the indigenous Shipibo-Conibo population. During the internship, I had the opportunity to help organize a Plant Medicine and Gynecology Workshop in the Bena Jema community.<br /><br />
- 
+
 
 __*Can you talk a bit about the health problems women face in the area that you were photographing?*__
 

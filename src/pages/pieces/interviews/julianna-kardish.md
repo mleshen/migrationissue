@@ -2,12 +2,12 @@
 path: "/julianna-kardish"
 title: "An Interview with Julianna Kardish"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/4.jpg"
 sound: ""
 
 ---
- 
+
 __*The combination of different elements, including the tiger, the faceless woman, the bare feet, and the stratus clouds, creates an extraordinary scene. Where did the inspiration of the painting come from?*__
 
 At the time, I had been reading a lot about Surrealism and studying Salvador Dali. Up until this point in 2016, most of my works had been done by practicing realism, so I wanted to challenge myself to reject rationality. I was interested in escaping the idea that time was linear. This bizarre combination of elements was to disorient the viewer so that she would have no sense of the narrative occurring, no information about the start or finish of the bike rider's journey. Instead the viewer should just see the scene as it is existing. <br /><br />

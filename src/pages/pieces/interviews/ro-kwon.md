@@ -2,12 +2,12 @@
 path: "/ro-kwon"
 title: "An Interview with R.O. Kwon"
 author: "Sabrina Li"
-type: "Interview"
+type: "Interview" 
 source: "../icons/6.jpg"
 sound: ""
 
 ---
- 
+
 __Sabrina Li:__ In “Legends of the Seoul Dogs,” I noticed that the form of the story is that of the Christian Catechism. I found this structure particularly interesting, since it’s used as an educational tool to teach children about Christianity, and I found that particularly relevant to the boy’s growth and relationship to religion and his father. Clearly, the structure introduces religious elements into the story and casts it into the realm of myth, but what were you attempting more specifically to impart with this structure?
 
 __R.O. Kwon:__ This is a great question, and I love what you say about catechisms. When I write, though, I don’t think about imparting anything—I don’t have overarching messages in mind. Instead, I’m trying to be as truthful as I can be. I think this is part of what I love about writing fiction. It lets me push aside facts to attempt to get at truths.

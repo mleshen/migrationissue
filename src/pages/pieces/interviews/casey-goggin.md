@@ -2,12 +2,12 @@
 path: "/casey-goggin"
 title: "An Interview with Casey Goggin"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/10.jpg"
 sound: ""
 
 ---
- 
+
 __*These two photos are part of your larger photography and poetry journal entitled “Subject/Manifest/Destitute”. Would you like to talk a bit about the photographs and poetry of this project that are not represented in the Women’s Issue? Where does each part take place and how do they factor into the four act American drama described in your artist statement?*__
 
 Subject/Manifest/Destitute is a photography and poetry journal that was captured over the course of a five-day, meandering drive from San Antonio (TX) to Los Angeles (CA), though of course that drive does not conclude with a physical destination. The 'acts' take place chronologically, one shoot/location a day, from June 6th - June 9th. In order, we stopped at Big Bend National Park in Southwest Texas (June 6th), White Sands National Monument in New Mexico (June 7th), the Apache Trail in Arizona (June 8th), ending the project on Interstate I-15 by the Mojave National Preserve in California (June 9th). With all of these locations, I intended to chase these violent contradictions I saw in them. I suspected that the violence and beauty (thus the contradictions) of these places would parallel, or perhaps contrast, the contradictions I embody in a productive way. Here's an idea of some (not all) of the conflicting pasts and present states of these environments.

@@ -2,11 +2,11 @@
 path: "/amanda-gorman"
 title: "An Interview with Amanda Gorman"
 author: "Najya Williams"
-type: "Interview"
+type: "Interview" 
 source: "../icons/9.jpg"
 sound: ""
 ---
- 
+
 __*Najya*__: Amanda! It’s so great to have the honor and privilege of interviewing you about your piece, “Sestina for My Sisters.” Let’s dive right in! First and and foremost, I loved your piece! When we first read it in our discussion, I was like, bro, this is so raw, so striking, but it really resonates with me as a Black woman on so many different levels. So just off the cuff, tell me about what tell us more about your inspiration for this piece? How was this piece born? <br /><br />
 
 __*Amanda*__: Yeah! So this piece was born in my sophomore year, during this time of this movement about [...] sexual assault. And I was actually in this poetry class, where I saw tens of thousands of women sharing their pain on the internet and I decided to write this piece, Sestina for my Sisters. For me, it was a way to play with shape, play with this poetic form with a topic that felt raw and changing in a way that this structure is not.<br /><br />

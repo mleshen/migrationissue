@@ -2,12 +2,12 @@
 path: "/genesis-belanger"
 title: "An Interview with Genesis Belanger"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/16.jpg"
 sound: ""
 
 ---
- 
+
 __*Your works tend to place an emphasis on products that are mass produced; can you talk a little more about why you chose to focus on those products such as prescription pills and lipstick?*__
 
 These mass produced objects tell the story of our society. The things we are sold can be spectacular representations of the peculiarities of a given system, from the beauty standards and expectations of women to our dependency on prescription medications.<br /><br />

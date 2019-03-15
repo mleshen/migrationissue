@@ -2,12 +2,12 @@
 path: "/charlotte-edey"
 title: "An Interview with Charlotte Edey"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/8.jpg"  
 sound: ""
 
 ---
- 
+
 __*Your work has often been described as idyllic, serene and surreal and explores the nature of sanctuary. How would you recommend creating such a space in our daily lives?*__
 
 I'm into mindfulness, which is really simple and calming. Taking time to focus on your immediate: your visible surroundings, any sounds you can hear, sensations from temperature to touch. It quiets your mind and bring you back to earth with more focus. Except when commuting, when to be honest I would rather not be on earth and would turn to a book. Reading forms an important sanctuary for me; it's nice to be able to live a few lives at once.<br /><br />

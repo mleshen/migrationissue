@@ -2,13 +2,13 @@
 path: "/prudence-flint"
 title: "An Interview with Prudence Flint"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/21.jpg"
 sound: ""
 
 ---
 
- 
+
 __*Some of your figures share a similar straight, expressionless gaze. How would you describe the mental state of these women?*__
 
 I imagine these women focusing and thinking. Facial expressions can really dominate a painting. I prefer a more ambiguous reading so the painting itself has room to become the expression. I’m often not sure what it is I want the figure to be feeling. I need to surrender and find it within the painting. We are used to seeing people depicted smiling or scowling in advertisements where ambiguity isn’t going to sell anything.<br /><br />

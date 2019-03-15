@@ -2,12 +2,12 @@
 path: "/helen-zughaib"
 title: "An Interview with Helen Zughaib"
 author: "Nicole Araya"
-type: "Interview"
+type: "Interview" 
 source: "../icons/17.jpg"
 sound: ""
 
 ---
- 
+
 __*Where does this scene take place? Is this based on a particular place and group of women?*__
 
 This piece came from my memories of living in the Middle East. Of women gathering at that certain time of day, shortly before evening falls, a few moments to catch their breath after a long day’s work, and before the evening dinner preparations begin, a moment to rest, be calm, before they are pulled back into the relentless calls of children and family work.<br /><br />

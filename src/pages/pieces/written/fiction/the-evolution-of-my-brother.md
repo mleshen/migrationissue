@@ -9,7 +9,7 @@ interview: "No"
 ---
 
 I.
- 
+
 We  were alone most afternoons. On one of them, we searched my room for candles. We found one that I liked: white with Colombian coffee beans clustered around the bottom.
 
 “Eat it,” I said.
@@ -39,6 +39,7 @@ He crouched down on the ground, closed his eyes, and leaned in close. Neither of
 
 I picked out the rest of the burnt strands, and the two of us ate them from my cupped hand while we sat on the couch, my arm around him and his feet wiggling like noodles in boiling water, our eyes staring straight ahead, as if the opening credits were coming on.
 
+<br /><br />
 The next summer, I pulled him inside my room and locked the door. I was supposed to be teaching him addition, but I tossed the workbook on the floor and stuck a pair of headphones on his head.
 
 “Good thing your head’s so big.”
@@ -56,6 +57,8 @@ I turned the volume up. He was five and starting kindergarten in three weeks. I 
 “You’re a punk rocker now.”
 
 “Can you make me cereal with milk?” he asked, handing me the headphones.
+
+<br /><br />
 
 He came in holding two pieces of ham stuck together and wearing a Mickey Mouse sweatshirt over a hand-me-down turtleneck that was so old and stretched out on him it reminded me of our neighbor’s Dalmatian after he was neutered and had to wear a big plastic cone around his neck. I had said so the last time my brother wore it. (We were outside throwing sticks for our neighbor’s Dalmatian to catch and my brother asked me what neutering was and I said, “Hold on, I’ll get some scissors and show you,” which earned me an appalled look from our neighbor, and I was immediately embarrassed because I knew he found me odious and cruel.)
 
@@ -83,6 +86,8 @@ Later that day, when we were getting ready for bed, I showed my brother how to p
 
 “Why?” He smiled wide, baring his teeth so I could pick the piece of ham out. I popped it into my mouth. It tasted so, so salty.
 
+<br /><br />
+
 He had a temporary stutter where he would add the sound “ma” to the beginning of certain words. Sometimes, when he called out for me, he would say, “ma-ma-ma-ma Jenny.” It sounded like he was saying, “my-my-my-myyy Jenneeeeeeee.” I liked being his property.
 
 “It’s very common,” the speech pathologist told us. “It’s a tic, almost like clearing your throat compulsively before speaking.”
@@ -104,6 +109,8 @@ He had a temporary stutter where he would add the sound “ma” to the beginnin
 “Ma-ma-ma-myy Jenneeee,” he repeated after me, completing another perfect circle.
 
 It wasn’t the same. He was growing up. He was growing out of his speech disorder. From that point on, in order to be his, I had to request it.
+
+<br /><br />
 
 When I was fifteen, I spent three weeks in California studying philosophy at Stanford University with people who made me feel like I was part of a tribe—their tribe, not mine, but a tribe nonetheless. All I had wanted for so long was to be part of a family that wasn’t mine. To have an excuse to love mine less, an excuse to run away instead of staying so close all the time. “Why,” I wailed to our parents the week I got back, “do we have to do everything together? Why can’t you ever go someplace without us?” My brother was standing as close to me as he could without touching me. I had warned him that if I felt any part of his body touch mine I would saw it off. “Why does it always have to be the four of us? Do you really think I’m going to live here forever? Maybe he will,” I said, pointing at my brother, “but not me.”
 
@@ -141,9 +148,13 @@ At the airport, I avoided looking in her direction. It was bullshit that she mad
 
 “No,” my father said. “That’s not an option. Everything is going to happen exactly as we agreed. We want you to do well. We’re proud of you, okay? We’ll see you in three weeks.” My mother’s tears triggered a crying jag from my brother as well, and my father had to hold him back from running after me. It was strange to walk past them and wait in the back of the line to board the plane, knowing they were watching me go. I resisted looking back until there was only one person ahead of me in line. When I turned my head I saw the three of them huddled together—only my father was waving at me as my brother and my mother clung to him. It was a family formation that finally did not include me. I’m freeeeeeeeeeee, I thought as the agent scanned my ticket and then immediately began to panic when I realized I had missed my opportunity to say goodbye. I heard my brother shout out, “When’re you coming back, Jenny?” and then the door closed behind me and I hardly thought about them again for the next three weeks. It was only later, much, much, much later, that I understood and accepted that my parents paid for me to be free. All of it, I realized, had to be paid for by someone.
 
+<br /><br />
+
 “You’ll drive a Mercedes, and I’ll drive a Porsche when we grow up,” he said to me while we sat on the curb waiting for the ice-cream truck.
 
 “I can’t even freaking ride a bike,” I said, staring down the street, waiting to see if anything was coming.
+
+<br /><br />
 
 On my ninth birthday, my mother was rushed to the hospital. Ten hours later, she gave birth to my brother. When we were both old enough to care, our mother told us that he was born at 10:22 in the morning.
 
@@ -211,6 +222,8 @@ The email took me hours and by the time I was done, it was too late to play Mono
 
 I wanted to write another email to the boy with the pink button-down shirt who pulled me into his room one night when his roommate was out getting ice cream and took pictures of me. I missed California, missed the sweetness and newness of a boy, any boy, telling me cheeks were meant to be pink, and so I was meant to be in this world. But I was back in my old life now. I couldn’t even properly daydream without thinking about my brother crying alone while his friends were running around in our backyard. How did he do it? How did he find his way into everything? Even in my most private memories, the ones I told no one, sooner or later, he showed up, the perpetual invader, his small face asking me if maybe I’d watch him play a scary videogame and stand in front of the TV to block out the ghosts when they suddenly appeared.
 
+<br /><br />
+
 My brother wanted to hook up his PlayStation to my TV on the one afternoon I actually had a friend from school coming over to watch three movies in six hours, so I picked up one of the videocassettes I had planned on watching and flung it across the room.
 
 “You always do this. I have to spend every single day with you. Every freaking day and every freaking hour. I’m so sick of it.”
@@ -235,6 +248,9 @@ I took my dictionary off the shelf and dropped it on the floor.
 “Don’t you dare,” my mother said, hitting her elbow against my door.
 
 “Ye-yeah, ma-mom’s ga-going to punish y-you ma-ma- ma-ma-my Jenny.”
+
+<br /><br />
+
 
 “One day”—I sighed—“you are going to have to stop missing me.” I pressed my chin against the spot on his head from where his hair swirled out. “Okay?”
 
@@ -274,6 +290,8 @@ When we went to wash our hands in the bathroom, I remembered the mirrors and shi
 
 “Okay, Jenny,” he shouted back.
 
+<br /><br />
+
 The summer after he finished second grade, there was a Saturday when we were inseparable for an afternoon, going around every room in the house arm in arm, which was hard to do because he was so little and only came up to my waist. I had to bend down really low, so low that it made my back ache but I didn’t care. We walked in circles, chanting, “We! Are! Best! Friends! We! Are! Best! Friends!” until our dad emerged from hanging up laundry in the basement and watched us with an empty laundry basket balanced against his hip. He shook his head and laughed.
 
 “You’re both ridiculous. Come up here, I want to show you two jokers something.”
@@ -290,9 +308,13 @@ He took the laundry basket and hurled it through the hole in my door. There was 
 
 We were silent for a bit. And then we said, “So what’s your point?” For the rest of the afternoon, we went around arm in arm, still chanting, “We! Are! Best! Friends! And Dad! Is Such! An I-di-ot!”
 
+<br /><br />
+
 Our mother came into my room when we were having a sleepover—my brother on the floor and me in front of the computer—and yelled very fiercely, “Go to sleep or never sleep in your sister’s room again.” I felt partially responsible because if it hadn’t been for me farting the entire chorus of “Row Row Row Your Boat” for my brother and making him laugh so hard that our mother heard it through the walls that separated my bedroom from hers, he would have never got- ten yelled at. I knelt down on the floor and asked him if he was okay.
 
 “Are you thirsty? Hungry?” He nodded his head. “Be right back,” I said. “Don’t fall asleep.” I came back up with a turkey sandwich and a cup filled to the brim with water. While he ate I was reminded of the time when I had come back from a bad day at school and shut myself up in my room and watched taped reruns of Late Night with Conan O’Brien for three hours. When I realized I hadn’t heard any sounds from my brother in several hours, I went downstairs and found him sitting less than a foot from the television, watching Fresh Prince of Bel-Air and eating peanut butter with a plastic ice-cream scooper. Oh, I murmured when I looked inside the peanut butter jar: a hole right down the middle. Even now, I wondered if I had done right by him as I held out my hands below his chin to catch stray crumbs.
+
+<br /><br />
 
 Whenever my brother and I start listing our grievances against each other—who wounded who more—my brother inevitably brings up the time I tried to kill him.
 
@@ -308,7 +330,11 @@ It was an act of desperation. I should have told him, I would never hurt you. I 
 
 Once when we were napping side by side on our parents’ bed on one of the many afternoons we were left alone, I dreamt we were fighting on opposing sides of a civil war. When the war was over, I knelt down by my brother’s injured body and hacked him into four pieces. It was up to me to give him a proper funeral, but I had only two hands and couldn’t figure out which parts of him to carry back and bury and which parts to leave behind.
 
+<br /><br />
+
 One winter, when I was home from college, I went outside in the dark, crossed the playground behind my house, and followed a narrow road up a hill. I forgot my glasses and for a while, I sat on a patch of grass, looking down at the town where I spent my adolescence, the town my family had moved to not long after my brother was born. The streetlights ap-peared as big as tangerines, blurry and orange. What I wanted was for someone to come looking for me, for someone to worry about me, for two adults to argue about me. I wanted everyone I knew and everyone I could know one day to wonder about me, to think of me as if I were the last Popsicle on earth, and oh no, before anyone got to eat me, I had already gone ahead and melted entirely! What I wanted was for someone to kneel down on the ground and lick the red sugary water of mememememememe curving and rolling down streets half-paved in asphalt. I worried about a world where my existence barely mattered. A world where I did not exist at all. Maybe that was the world I was headed to. Maybe that was the world I deserved.
+
+<br /><br />
 
 After a month of kindergarten, my brother still couldn’t write his name on a sheet of paper, and the teacher, Ms. Notice, was concerned and sent him home with a note.
 
@@ -454,6 +480,8 @@ After my brother ate the penny, he called our mother at work and told her that h
 
 “I don’t know,” I said, petulant. “Pennies stir-fried with garlic.”
 
+<br /><br />
+
 He was three and I was twelve when our parents bought our house in Glen Cove. We had successfully done something people studied in academic textbooks—we became upwardly mobile. We moved from our mostly working-class Puerto Rican and Korean neighborhood in Queens to a named community (its namesake was J. P. Morgan, the very tycoon my father worked twelve hours a day for, the reason why we never ever saw him) in a mostly upper-middle-class white neighborhood on Long Island. Everywhere we went and looked there was unused space, there was room for two people to never have to touch each other or breathe in the same approximate air. There was silence to fill, grass that had never been trampled on, trees with undisturbed spiderwebs. Between the ages of twelve and seventeen, I was the first person to come back to the house on weekday afternoons. I had about forty-five minutes to myself before my brother came home, five hours until I had to cover up everything that went on in our house before our mother returned from work, and eight or nine or ten hours before our father came home and
 checked in on us. We would wait up for him in our pajamas, having done everything we needed to do that day besides see him. Sometimes if I was in a selfish mood, I’d pretend to be asleep in my bed to avoid the five or so minutes I had with my father at the end of the day—it wasn’t like I was ever going to know him this way. But still, adding another day to the stack of days I missed out on knowing my father was immense and weighed on me like a millstone in a fairy tale. In a way, we were in a fairy tale—all those hours my brother and I spent alone in an empty house together, and all the times I tried to get my brother to believe that our parents had died, that I had just gotten off the phone with a police officer who found them mangled and lifeless, covered in the bloody shrapnel of a massive car wreck.
 
@@ -520,6 +548,8 @@ I burst into my brother’s room without knocking and he’s playing a game on t
 “That makes no sense.”
 
 “That’s because sense isn’t made, it’s learned.” “Yo, you really need to get out of my room.”
+
+<br /><br />
 
 At night, when everyone is sleeping, I sneak into his room like I used to when he was little. There were nights when I missed him, when I stayed up too late on my own after insisting that he couldn’t sleep in my bed with me, after insisting that he had to learn to sleep multiple consecutive nights in his own bed, nights when I stayed up trying to be my most romantic self, when I stared at myself in my bedroom mirror, flirting with myself, seducing myself, laughing at my own jokes, playacting the kinds of friendships I fantasized about having once I was no longer in this house. On those nights, there would often come a moment when I suddenly missed my brother so much that it was physically unbearable and I would creep into his room and watch him sleep, his little chest and his little face and his little knees smashed up against the mesh barrier that my parents installed so he wouldn’t roll off his bed. My brother never slept in the center of anything—he was always against some barrier.
 

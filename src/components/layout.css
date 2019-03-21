@@ -1140,7 +1140,7 @@ a:visited {
 .stickyInfo {
   position: sticky;
   position: -webkit-sticky;
-  top: 200px;
+  top: 50px;
 }
 
 .title {

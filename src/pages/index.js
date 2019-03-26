@@ -11,9 +11,9 @@ import Layout from '../components/layout'
 import Navbar from '../components/sidenav'
 import PageFooter from '../components/footer'
 import Piecepreviewrow from '../components/piecepreviewrow'
+import SEO from '../components/seo'
 import Shorten from '../components/shorten'
 import Shortenfeatured from '../components/shortenfeatured'
-import SEO from '../components/seo'
 
 class Index extends React.Component {
 

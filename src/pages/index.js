@@ -239,6 +239,7 @@ class Index extends React.Component {
           <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>
         </Piecepreviewrow>
         <div class="linebreak"></div>
+        <div class="linebreak"></div>
 
         <PageFooter></PageFooter>
 

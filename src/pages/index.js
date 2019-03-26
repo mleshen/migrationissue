@@ -168,7 +168,6 @@ class Index extends React.Component {
           </div>
         <div class="linebreak"></div>
 
-
         <Piecepreviewrow>
           {essaySample.map(post => (
             <a href={post.node.frontmatter.path}>
@@ -242,6 +241,7 @@ class Index extends React.Component {
         <div class="linebreak"></div>
 
         <PageFooter></PageFooter>
+
         </Layout>
     )}
   }

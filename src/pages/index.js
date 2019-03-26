@@ -4,16 +4,16 @@ import _ from 'lodash'
 import { Link } from 'gatsby'
 import { graphql } from 'gatsby'
 
-import Layout from '../components/layout'
-import Piecepreviewrow from '../components/piecepreviewrow'
 import Circlebutton from '../components/circlebutton'
 import Featuredcolumn from '../components/featuredcolumn'
+import GenreBar from '../components/genrebar'
+import Layout from '../components/layout'
+import Navbar from '../components/sidenav'
+import PageFooter from '../components/footer'
+import Piecepreviewrow from '../components/piecepreviewrow'
 import Shorten from '../components/shorten'
 import Shortenfeatured from '../components/shortenfeatured'
 import SEO from '../components/seo'
-import Navbar from '../components/sidenav'
-import GenreBar from '../components/genrebar'
-import PageFooter from '../components/footer'
 
 class Index extends React.Component {
 
@@ -40,7 +40,7 @@ class Index extends React.Component {
   }
 
   render() {
-    const { isLoaded, test, featuredSample, artSample, essaySample, fictionSample, poetrySample } = this.state;
+    const { isLoaded, featuredSample, artSample, essaySample, fictionSample, poetrySample } = this.state;
     if (!isLoaded) {
       return <div>Loading...</div>;
     } else {
@@ -94,7 +94,6 @@ class Index extends React.Component {
             </div>
           ))}
           </div>
-
           <div class="linebreak"></div>
 
           <h4>Explore all</h4>
@@ -130,7 +129,6 @@ class Index extends React.Component {
             ))}
             <a href="/fiction"><h4 class="seemore">See more fiction </h4></a>
           </Piecepreviewrow>
-
           <div class="linebreak"></div>
 
           <div class="artrowLink">
@@ -168,7 +166,6 @@ class Index extends React.Component {
               </div>
             <a href="/art"><h4 class="seemore">See more art</h4></a>
           </div>
-
         <div class="linebreak"></div>
 
 
@@ -204,7 +201,6 @@ class Index extends React.Component {
           ))}
           <a href="/personalessay"><h4 class="seemore">See more personal essays </h4></a>
         </Piecepreviewrow>
-
         <div class="linebreak"></div>
 
         <Piecepreviewrow>
@@ -243,13 +239,10 @@ class Index extends React.Component {
           ))}
           <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>
         </Piecepreviewrow>
-
         <div class="linebreak"></div>
 
         <PageFooter></PageFooter>
-
         </Layout>
-
     )}
   }
 }

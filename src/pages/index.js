@@ -49,7 +49,6 @@ class Index extends React.Component {
           <SEO title="The Women's Issue" keywords={[`literary`, `art`, `magazine`, `advocate`]} />
 
           <Navbar></Navbar>
-
           <GenreBar></GenreBar>
 
           <h4 class="top">Featured</h4>
@@ -137,7 +136,6 @@ class Index extends React.Component {
                 <div class="artpreviewrow">
                   {artSample.map((post, index) => (
                     <div class="artTitleArtist"  key={post.node.id}>
-
                     <div class={"arttitle-" + index}>
                       <a href={post.node.frontmatter.path}>
                           <h3>{post.node.frontmatter.title}</h3>
@@ -238,7 +236,6 @@ class Index extends React.Component {
           ))}
           <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>
         </Piecepreviewrow>
-        <div class="linebreak"></div>
         <div class="linebreak"></div>
 
         <PageFooter></PageFooter>

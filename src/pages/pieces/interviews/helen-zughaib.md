@@ -35,3 +35,4 @@ I love using pattern and color in my work, creating “new” landscapes of patt
 __*What advice would you have for aspiring artists that are seeking to showcase some element of their identity or personal experiences into their works?*__
 
 I think it is very important for artists of all backgrounds, especially now in this fraught political climate we are living in, to express their own truths, their own stories and realities. They will resonate with people who share their same identity and if not, perhaps inspire some new understanding, new appreciation for this shared experience called humanity. If you have a story to tell, tell it. Someone will listen.
+&nbsp;

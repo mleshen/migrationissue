@@ -35,3 +35,4 @@ For my photographs, I hoped to capture the knowledge being shared, the feeling o
 __*There appears to be a strong component of intergenerational knowledge in these images -- how does the passing of knowledge and traditions function to bring together communities of women? *__
 
 The Shipibo-Conibo community deeply value knowledge typically based on from generation to generation--this is especially true when it comes to plant medicine. During the workshop, the dozen women sat together to share deeply personal stories. I recall one of the women detailing her experiences with a tumor in her uterus and how she used plant medicine as a way to deal with it. Ultimately, the space became one that allowed women to connect, trust, and learn.<br /><br />
+&nbsp;

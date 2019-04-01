@@ -35,3 +35,4 @@ __Kwon:__ A lot of my obsessions have remained the same; how I grapple with them
 __Li:__ Even though there is a palpable absence of women in this short story (and the woman character in the story is physically “absent”), your complex treatment of male violence and the pressures of growing into a man differentiate it from other male-centric stories I’ve read. Is there a way in which this story could be considered “women’s fiction” or “feminist fiction”? Do you find the labels of women’s fiction and feminist fiction to empower your writing, limit its scope, be a marketing tool, or something else? Does the female have to be at the core of a story for it to be considered “feminist”?
 
 __Kwon:__ Thank you for what you say about this story and male violence—I love that. I think and hope that everything I write, including this story, and definitely including my first novel, The Incendiaries, is deeply feminist.  
+&nbsp;

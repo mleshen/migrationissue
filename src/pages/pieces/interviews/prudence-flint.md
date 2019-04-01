@@ -41,4 +41,5 @@ I’m interested in psychology and literature. I am especially interested in art
 __*What advice do you have for other artists who struggle with self-doubt?*__
 
 I don’t think you can escape the self-criticism. You’ve got to learn to manage it and use it constructively. The critical voice is necessary for the growth of the work. You need the critical voice to stay on track, to problem solve and to make change happen. You need to get to know what your deep interests are and then work from there.   
+
 &nbsp;

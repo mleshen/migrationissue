@@ -31,3 +31,5 @@ I am impressed by the advertising industries spectacular use of visual language.
 __*Who would you cite as your largest artistic inspiration?*__
 
 This is a near impossible question. I don’t think I could narrow it down to one person.  I’ll give you my current list- Domenico Gnoli, Fernando Botero,  and Dorothea Tanning.
+
+&nbsp;

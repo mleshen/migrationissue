@@ -51,4 +51,5 @@ As a woman, I have dealt with discrimination, and been dismissed as a female art
 The Magician shows a strong, crowned woman holding a magic wand in her right hand.  Starting from her lower ribs down, she is wearing a deep red skirt that opens at the front. Her left-hand points at the opening, revealing a canyon. This canyon represents her vagina and portrays the mystery and beauty of the female genitals. The deep red of the skirt symbolizes the biological act of bleeding. I gave her a blue face to represent serenity, wisdom and intuition.
 
 There is an open attack on all shades of brown-skinned people. I made her a strong, wise, serene brown queen, a magician, a creator of life. And I celebrate her.
+
 &nbsp;

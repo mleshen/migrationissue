@@ -35,4 +35,5 @@ Ice explores the absence of self. That barren feeling of despair, and the weight
 __*How are the natural forces of the universe reconciled with the control of built civilization in the architectures you create?*__
 
 I'm really drawn to the clean lines in modernist architecture and draw heavily from them when creating structures. I find they create a nice dialogue with the elements: light, shadow, rain and organic elements. There's a balance between nature and control.
+
 &nbsp;

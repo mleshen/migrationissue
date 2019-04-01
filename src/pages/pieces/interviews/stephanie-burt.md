@@ -57,4 +57,5 @@ I like to think that I am writing various kinds of poems for various audiences. 
 __*Sophia*__: And in speaking, do you feel that you have a role to educate, or as a role model, does that affect what you write about in your poems? Should it?<br /><br />
 
 __*Stephanie*__: Everything I do affects everything else I do, probably, in ways of which I am not entirely aware! I definitely write poems about teaching, about being a (very minor, small-scale) public figure, about holding a position of authority. But I also write poems about being, or feeling, fourteen.
+
 &nbsp;

@@ -229,9 +229,8 @@ class Index extends React.Component {
                       </div>
                     </div>
                     </a>
-
+                    
                 </div>
-
               </div>
           ))}
           <a href="/poetry"><h4 class="seemore">See more poetry </h4></a>

@@ -229,7 +229,6 @@ class Index extends React.Component {
                       </div>
                     </div>
                     </a>
-                    
                 </div>
               </div>
           ))}

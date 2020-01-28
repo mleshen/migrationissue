@@ -2,11 +2,9 @@
 path: "/untitled"
 video: " "
 source: "./artimages/untitled.jpg"
-title: "Untitled"
-author: "Jocelyn Lee"
+title: "Untitled (So Much Darkness, So Much Brownness)"
+author: "Felipe Baeza"
 type: "Art"
 interview: "No"
-
 ---
-Photograph
- 
+Ink, collage, and hand embroidery on paper | 36 x 48 in. | Image courtesy of the artist and Maureen Paley, London

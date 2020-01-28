@@ -17,8 +17,8 @@ const About = () => (
           <small> ← Back to home</small>
         </a>
       </div>
-      <h2>About the Women's Issue</h2> <br /><br />
-      <p>The Women’s Issue is a special fifth issue of the Harvard Advocate. The Women’s Issue was conceived with the goal of being a literary and artistic platform to explore the stereotypical narrative of what it means to be a “woman” and the actuality. The issue primarily features writing and art from the Harvard undergraduate community as well as professional contributors. The Women’s Issue is published under the guidance of faculty advisor Laura van den Berg and with the generous support from Advocate alumni, Harvard’s Office for the Arts, and Harvard’s Women’s Center.</p>
+      <h2>About the Migration Issue</h2> <br /><br />
+      <p>The Migration Issue is a special fifth issue of the Harvard Advocate. </p>
       <div class="about">
         <a href="/editorsnote"><p class="transcript"><i>An Interview with the Editors — Read the full transcript <u>here</u></i></p></a>
         <audio controls>

@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `The Womens Issue`,
-    description: `The Women's Issue, An Art & Literary Magazine`,
-    author: `Marie Konopacki`,
+    title: `The Migration Issue`,
+    description: `The Migration Issue, An Art & Literary Magazine`,
+    author: `Emily Shen`,
   },
-  pathPrefix: "/womensissue",
+  pathPrefix: "/migrationissue",
   plugins: [
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -21,13 +21,13 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     name: `images`,
-    //     path: `${__dirname}/src/images`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

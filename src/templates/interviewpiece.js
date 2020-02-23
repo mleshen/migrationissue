@@ -1,4 +1,4 @@
-import _ from 'lodash'
+/* import _ from 'lodash'
 import React from 'react'
 import Layout from '../components/piecelayout'
 import Piecepreviewrow from '../components/piecepreviewrow'
@@ -149,3 +149,4 @@ export const postQuery = graphql`
     }
   }
 `
+ */

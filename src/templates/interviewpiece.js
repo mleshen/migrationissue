@@ -116,7 +116,6 @@ export const postQuery = graphql`
         title
         author
         type
-        sound
         source {
           childImageSharp{
             sizes(maxWidth: 630) {

@@ -60,7 +60,7 @@ On the way home, we each carried a bag because I am Papa's helper. "Mama will be
 
 The bag of tomatoes was heavy and carved red marks into my palms.
 
-Gold
+**Gold**
 
 It was very hot in the factory although my third grade teacher, Mrs. Kelley, said it was now the end of autumn. Sweat ran down the sides of my cheeks and neck, making my hair clump like the brushes I used to dip in black ink to write Chinese characters. There was so much fabric dust in the air, the fluorescent light shone through in a haze. The dust covered the sewing machines, the counters where Mama lay her scissors and tape measures, the racks of clothes hung thick as leaves in a jungle. Sometimes, I would draw pictures in the dust with my fingers.
 
@@ -130,7 +130,7 @@ I jumped when the door finally opened but it was just one of the workers. Mama w
 
 On the subway home late that night, I fell asleep against eldest brother's arm as he was telling me about our future, "And then we'll have a nice house, with a garden and ducks, maybe out in Queens...."
 
-Water
+**Water**
 
 I was standing in front of the open oven door, first putting my hands up to the heat and then rubbing them across my runny nose. The skin was red and blistered so that when I looked in the mirror, I could pretend I had a mustache. Eldest brother had shown me many times how to blow my nose in a handkerchief but I never managed to get the hang of it and I wiped and wiped until the skin broke. It was always sore. My teacher, Mrs. Kelley, told me I had to put Vase- something on it but I didn't know what that was.
 
@@ -180,7 +180,7 @@ Finally, when we reached the front, Mama pulled the high wooden doors so hard th
 
 My heart dropped into my stomach like a stone and the wind gusted around us. Mama fumbled for my hand as we turned to make our way home.
 
-Wood
+**Wood**
 
 In the dark weeks of February, both grandmothers died in China. 
 
@@ -220,7 +220,7 @@ So, while Mama and I watched, Papa and my brothers slowly sliced away at each pi
 
 From that night on, we slept with the sandalwood daggers under our pillows, for protection.
 
-Fire
+**Fire**
 
 Later, Mama would thank the gods for their protection because we were all asleep the night our building caught on fire, and worse might have happened. I was buried under a heavy load of blankets and scraps of fabric from the factory when I felt warmth in the air. I wasn't used to it and woke up. The room was gray with darkness yet swarms of roaches were pouring from the cracks in the wall and rats scurried from the baseboards.
 
@@ -308,7 +308,7 @@ Papa began to shake his head.
 
 Papa rested his eyes on me, then looked at eldest and second brother. He nodded. "But nobody tell them we're Buddhist."
 
-Earth
+**Earth**
 
 We spent the night of the fire at the house of the nuns and afterwards, we had to live with Aunt Mei for a few weeks. Aunt Mei said we were lazy and in her way but we were family and what was she to do, turn us into the streets? We had to do all the cooking and cleaning. Luckily, one of the nuns knew a landlord in our neighborhood. Eldest brother and Papa talked to him and arranged to rent an apartment. Now, on every Buddhist holiday, Mama packs our traditional food and sends it to the nuns but never tells them it's Buddhist food.
 

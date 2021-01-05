@@ -8,3 +8,6 @@ interview: "No"
 
 ---
 
+When the submarine is attacked everyone talks &nbsp &nbsp Everyone is brave. Everyone is nervous </br>
+about who'll be sent to the front first. </br>
+       Picking tendons from his teeth, a boy's  Nation keeps the time, </br>

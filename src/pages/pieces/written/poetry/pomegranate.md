@@ -8,37 +8,26 @@ interview: "No"
 
 ---
 
-Under this Iowa sky,<br />
-rain falls in slits around us
+i know my history &nbsp &nbsp the ocean <br />
+froths over my thighs &nbsp &nbsp so cold i taste
 
-the glittering eyelashes of angels<br />
-who pray at god’s cloud-marbled floors.
+metal &nbsp &nbsp three coasts away <br />
+from the airport road &nbsp &nbsp seven countries 
 
-My breath is a fist of loose<br />
-wind falling away to
+from my garden city &nbsp &nbsp & then of course <br/>
+the water &nbsp &nbsp of course
 
-scared I will run out. & mother weeps<br />
-at the wheel, her hips shaking
+its copper taste &nbsp &nbsp pomegranate <br/>
+in my throat &nbsp &nbsp color of all my sisters 
 
-with the car’s rumbling. We drive to the end<br />
-of the field, the tear
+color of all the girls i know &nbsp &nbsp their names <br/>
+peeled & sucked &nbsp &nbsp their names 
 
-of the page full of corn lifting into the sky’s<br />
-open mouth. Exhausted,
+spit like seeds from car windows <br/>
+their names &nbsp &nbsp clinging to every 
 
-we lay in the grass<br />
-its sweet sticky sweat. A lacy
+lower lip &nbsp &nbsp to every rupture <br/>
+sun sets on the pomegranate city 
 
-grasshopper waxes by<br />
-our ear &
-
-it breaks us, that bird breaks<br />
-through the glass of us
-
-I try to catch its<br />
-beats spilling down my arms.
-
-Then corn heads unfurl<br />
-toward the sky
-
-in yellow flames.
+& where are my sisters </br>
+where have they gone 

@@ -1,7 +1,7 @@
 ---
 path: "/bondage-baggage-4"
 video: " "
-source: "./artimages/untitled.jpg"
+source: "./artimages/bondage_baggage_4.jpg"
 title: "Bondage Baggage Prototype 4"
 author: "Maia Ruth Lee"
 type: "Art"

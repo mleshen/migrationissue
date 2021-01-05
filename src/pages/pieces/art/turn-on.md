@@ -1,7 +1,7 @@
 ---
 path: "/turn-on"
 video: " "
-source: "./artimages/flaneur.jpg"
+source: "./artimages/turn_on.jpg"
 title: "Turn On"
 author: "Adrian Paci"
 type: "Art"

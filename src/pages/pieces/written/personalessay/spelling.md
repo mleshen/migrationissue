@@ -30,11 +30,11 @@ When the pronouncer tells me my practice word is "tall," I am confident. So assu
 
 "T-o-l-l. Tall."
 
-Ding.
+*Ding*.
 
 My heart slams into my chest. I hear the faint echo of chuckles resound among the audience members.
 
-Thank God it was only a practice round, I try to remind myself under the soft hiss I feel bubbling in my ears with a quickening speed.
+*Thank God it was only a practice round*, I try to remind myself under the soft hiss I feel bubbling in my ears with a quickening speed.
 
 "It's probably because she's so short," an elderly white woman in the audience whispers to her husband in the moment of my error, blissfully unaware that my parents are sitting in the row behind them. Later, my mother would relay the old woman's joke to me with a tone that sat squarely between amusement and disappointment.
 
@@ -50,15 +50,15 @@ But when the bee concludes in the early afternoon, it is the first thing on my m
 
 The first time I became conscious of the racial dynamics of spelling bees was the summer before the Pima County Spelling Bee: in 2008. I had just finished the third grade and, in celebration of the beginning of another sweltering, Arizona summer, had retired to my family's living room sofa to watch the 81st Scripps National Spelling Bee on television.
 
-I had watched televised spelling bees before -- Akeelah and the Bee, an episode of Charlie Brown -- but had never understood the quiet and insidious way race shaped them until that summer, the same way I had watched the Steelers beat the Seahawks during Super Bowl XL two years prior but had not begun to understand the racial politics of football until 2016, when I learned of Colin Kaepernick. In the years before that, all I knew was that football was all-American, a big deal, and I was to enjoy it, even if I didn't completely understand it.
+I had watched televised spelling bees before -- *Akeelah and the Bee*, an episode of Charlie Brown -- but had never understood the quiet and insidious way race shaped them until that summer, the same way I had watched the Steelers beat the Seahawks during Super Bowl XL two years prior but had not begun to understand the racial politics of football until 2016, when I learned of Colin Kaepernick. In the years before that, all I knew was that football was all-American, a big deal, and I was to enjoy it, even if I didn't completely understand it.
 
 Spelling bees, I learned, were to be treated the same way -- until brown kids began to win them.
 
-Since 1985, there have been 27 Indian American winners of the Scripps National Spelling Bee; 60 percent of winners in the last 35 years have been of Indian descent. But 2008 wasn't the first time it happened: it was simply the beginning of a 12-year consecutive streak that, as of 2019, has yet to be broken. It was the year Sameer Mishra won the national competition. I remember gripping the thick leather arms of the sofa with flushed fingernails that summer as my mother and I watched Mishra follow the recipe all spellers had committed to memory: Say the word once. Spell it slowly. Say the word again. 
+Since 1985, there have been 27 Indian American winners of the Scripps National Spelling Bee; 60 percent of winners in the last 35 years have been of Indian descent. But 2008 wasn't the first time it happened: it was simply the beginning of a 12-year consecutive streak that, as of 2019, has yet to be broken. It was the year Sameer Mishra won the national competition. I remember gripping the thick leather arms of the sofa with flushed fingernails that summer as my mother and I watched Mishra follow the recipe all spellers had committed to memory: *Say the word once. Spell it slowly. Say the word again.*
 
 "Guerdon," Mishra said, "G-u-e-r-d-o-n. Guerdon."
 
-Moments later, wisps of rainbow confetti snowed onto the stage. Mishra had won, and his victory would be the first of a 12-year streak of consecutive victories among Indian American spellers. It would also usher in an era of questioning the winners' place in America. On social media, I'd read angry Twitter users' lamentations of "foreigners" winning the bee, telling them to "go back" to India and calling them terrorists. I'd seethe at online comments, made in jest, discussing the contestants' "robotic" demeanors, alleging that these children were fated to the rote office lives of doctors and engineers, pointing out similarities between the convoluted words these children spelled and their own, lengthy last names -- which, like my own, often sounded impossibly tortuous to white ears. I'd let Internet gifs and memes comparing these kids to Apu from The Simpsons and depicting their emotionless visages collectively boil a hot, sputtering soup of anger inside me with which I didn't know what to do.
+Moments later, wisps of rainbow confetti snowed onto the stage. Mishra had won, and his victory would be the first of a 12-year streak of consecutive victories among Indian American spellers. It would also usher in an era of questioning the winners' place in America. On social media, I'd read angry Twitter users' lamentations of "foreigners" winning the bee, telling them to "go back" to India and calling them terrorists. I'd seethe at online comments, made in jest, discussing the contestants' "robotic" demeanors, alleging that these children were fated to the rote office lives of doctors and engineers, pointing out similarities between the convoluted words these children spelled and their own, lengthy last names -- which, like my own, often sounded impossibly tortuous to white ears. I'd let Internet gifs and memes comparing these kids to Apu from *The Simpsons* and depicting their emotionless visages collectively boil a hot, sputtering soup of anger inside me with which I didn't know what to do.
 
 After the competition that year, an Associated Press reporter interviewed Mishra and asked him what he wanted to be when he grew up.
 
@@ -76,13 +76,13 @@ Years after the 2009 Pima County Spelling Bee, when I began high school, I signe
 
 The medical spelling bee was like any other spelling bee -- but consisted exclusively of medical words, often derived from Latin roots. The recipe for winning was no different in this bee than in any of the others in which I'd participated. Say the word once. Spell it slowly. Say the word again.
 
-When I won the state competition in the spring of 2015, my mother -- a pediatrician -- helped me study hundreds of medical roots, prefixes, and suffixes in preparation for the national competition, which was to be held in the early summer. She quizzed me using flashcards I had cut squarely from jumbo, college-ruled index cards. -Algia. Pain. -Pnea. Breath. Somno-. Sleep. We drilled the words and their spellings for months, conjuring up mnemonics while sitting at the dining table every evening after school. My mother would keep an eye on the pot of sambaar  bubbling on the stove while quizzing me on words she found thumbing through a dusty medical dictionary she'd salvaged from her medical school days and stored at the bottom of our living room bookshelf.
+When I won the state competition in the spring of 2015, my mother -- a pediatrician -- helped me study hundreds of medical roots, prefixes, and suffixes in preparation for the national competition, which was to be held in the early summer. She quizzed me using flashcards I had cut squarely from jumbo, college-ruled index cards. -*Algia*. Pain. -*Pnea*. Breath. *Somno*-. Sleep. We drilled the words and their spellings for months, conjuring up mnemonics while sitting at the dining table every evening after school. My mother would keep an eye on the pot of sambaar  bubbling on the stove while quizzing me on words she found thumbing through a dusty medical dictionary she'd salvaged from her medical school days and stored at the bottom of our living room bookshelf.
 
 My mother and I traveled to California for the national competition that year, held in an upscale hotel's conference center in Anaheim. On the day of the medical spelling bee, we discovered that parents of contestants weren't allowed inside the seminar room where the competition was to be held, so my mother waited outside in the hallway for three hours, sitting with her legs outstretched on the coarse carpeted floor and her laptop perched on her knees, pretending to catch up on office work, though we both knew she was too nervous to concentrate.
 
 At nationals, I made the top six contestants, again. 
 
-"Ancylostomatidae. Ann-kill-oh-sto-mat-id-ee," the pronouncer -- a middle-aged white woman -- said, rounding out each sound perfectly, and I knew it was over for me when I heard the final syllable, which I had no idea how to spell.
+"Ancylostomatidae. *Ann-kill-oh-sto-mat-id-ee*," the pronouncer -- a middle-aged white woman -- said, rounding out each sound perfectly, and I knew it was over for me when I heard the final syllable, which I had no idea how to spell.
 
 Ding.
 

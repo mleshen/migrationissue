@@ -20,11 +20,7 @@ const About = () => (
       <h2>About the Migration Issue</h2> <br /><br />
       <p>The Migration Issue is a special fifth issue of the Harvard Advocate. </p>
       <div class="about">
-        <a href="/editorsnote"><p class="transcript"><i>An Interview with the Editors — Read the full transcript <u>here</u></i></p></a>
-        <audio controls>
-          <source src={Editorsnote} type="audio/mp3"></source>
-          Your browser does not support the audio element.
-        </audio>
+
       </div>
 
       <div class="masthead">
